@@ -1,0 +1,116 @@
+    <!--
+        index.php (http://iglug.gnewbook.org/index.php)
+
+        Copyright 2008 Daniel Aguayo Catalán <daniel.aguayo@alumnos.inacap.cl>
+
+        This program is free software; you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation; either version 2 of the License, or
+        (at your option) any later version.
+
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
+
+        You should have received a copy of the GNU General Public License
+        along with this program; if not, write to the Free Software
+        Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
+        MA 02110-1301, USA.
+-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<title><?php echo CHtml::encode($this->pageTitle); ?></title>
+    <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->theme->baseUrl; ?>/css/main.css" />
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+    <meta name="generator" content="Bluefish 1.0.7"/>
+    <meta name="keywords" lang="es" content="empresa, emprendimiento, emprender, libertad, mejor,Inacap, GNU/Linux, Comunidad, Universidad Tecnológica de Chile, negocios, software libre, open source, grupo de usuarios" />
+    <meta name="description" content="Red Nacional Inter Sede de Grupos de Usuarios GNU y Linux en la Universidad Tecnológica de Chile INACAP" />
+
+</head>
+<body style="direction: ltr;">
+<div id="contenedor">
+		   <div id="logo"><?php echo CHtml::link('<img alt="Logo IGLUG" title="INACAP GNU & Linux Users Group" border="0" src="http://www.gnewbook.org/mod/tidypics/thumbnail.php?file_guid=12981&size=large" />',array('index')) ?>
+		   </div>
+
+<div id="lateral">
+    <div id="panel">
+    <div class="bloque" id="mailist-subscribe">
+	<form action="http://www.gnewbook.org/mail_lists/list.php" method="post">
+	    <fieldset><legend>Lista de Correo</legend>
+	    <input class="textfield" name="sAddr" size="20" type="text" value="tu@email "/>
+	    <input name="sList" value='iglug' type='hidden' />
+	    <input name="sUrls" value="http://www.gnewbook.org/pg/groups/11003/" type="hidden" />
+	    <input class="boton" value='Suscríbete' type='submit' /><br />(podría ser filtrado como spam)
+	    </fieldset>
+	</form>
+    </div><!-- bloque -->
+
+    <div id="menu_grupos">
+	<h2>Grupos</h2>
+	<ul>
+		   <li><?php echo CHtml::link('Blog Comunitario',array('/blog/iglug')) ?></li>
+		   <li><?php echo CHtml::link('Concepción',array('/blog/concepcion')) ?></li>
+		   <li><?php echo CHtml::link('Osorno',array('/blog/osorno')) ?></li>
+		   <li><?php echo CHtml::link('Puerto Montt',array('/blog/puertomontt')) ?></li>
+	</ul>
+   </div><!-- menu_grupos -->
+   <div id="lista-articulos">
+		   <h2>Artículos</h2>
+		   <div class="bloque"><?php $this->beginWidget('zii.widgets.CPortlet',array('title' => 'elportlet')); ?>
+		   portlet
+		   <?php $this->endWidget(); ?>  
+		   </div> <!-- bloque -->
+    </div><!-- lista-articulos -->
+
+    <div id="enlaces">
+	<h2>Enlaces</h2>
+	    <div class="bloque"><?php echo CHtml::link('<img src="../estilo/img/logo-gnewbook-150x54.png" alt="Logo Gnewbook" />','http://www.gnewbook.org/'); ?></div>
+		   
+	    <div class="bloque"><?php echo CHtml::link('<img src="../estilo/img/gnuchile-100x86.png" alt="Logo Fundación GNUCHILE" />','http://www.fundaciongnuchile.cl'); ?></div>
+
+    </div><!-- enlaces -->
+
+    </div><!-- Fin PANEL -->
+</div><!-- lateral -->
+
+<div id="contenido">
+    <div id="menu">
+	<?php $this->widget('zii.widgets.CMenu',array(
+			'items'=>array(
+				array('label'=>'Home', 'url'=>array('/site/index')),
+				array('label'=>'Blogs', 'url'=>array('/blog/index')),
+				array('label'=>'Webchat', 'url'=>array('/site/page', 'view'=>'webchat')),
+				array('label'=>'Acerca', 'url'=>array('/site/page', 'view'=>'about')),
+			),
+		)); ?>
+
+    </div>
+    <!-- breadcrumbs -->
+
+		   <div id="blogsmenu" style="display:none;">
+    <?php
+ $this->widget('zii.widgets.CMenu',array(
+			'items'=>array(
+				array('label'=>'Conce', 'url'=>array('/blog/concepcion')),
+				array('label'=>'PtoMontt', 'url'=>array('/blog/puertomontt')),
+				       )));
+?>
+</div>
+<div class="grupo-nombre">
+		   <?php $this->widget('zii.widgets.CBreadcrumbs', array('links'=>$this->breadcrumbs,)); ?><!-- breadcrumbs -->
+</div>
+    <div id="pagina">
+	<!-- EMPIEZAN LOS ARTÍCULOS -->
+	<div class="post bloque">
+		   <?php echo $content; ?></div><!-- FIN POST -->
+		   <?php echo CHtml::link('::Subir ↑','#contenido') ?>
+		   </div>
+		   </div><!-- termina CONTENIDO -->
+		   <div id="pie">
+Contacta al <a href="mailto:daniel.aguayo@alumnos.inacap.cl">Webmaster</a>. <br /><?php echo Yii::Powered(); ?></div>
+</div></body></html>

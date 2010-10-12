@@ -1,0 +1,312 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+legend {
+    padding-right:1em;
+    padding-bottom:1em;
+    color:#45869f;
+    font-size:1.2em;
+    font-weight:bolder;
+}
+
+ul li {
+    margin: 1em 2em;
+    text-indent: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #398ed1;
+}
+
+a:hover {
+    border-bottom: 0px dotted #333;
+}
+
+a:focus{background:#afa;outline:1px solid #999;}
+
+a img {
+    border: none;
+}
+
+blockquote {
+padding:.5em 1em;
+background:#fea;
+font:italic .8em sans-serif;
+}
+
+pre {
+    padding: 1em;
+    background: #acf;
+    color: #000;
+    border: 1px solid #00f;
+    overflow:auto;
+    max-height:600px;
+}
+
+object#webchat {
+background:#eee;
+    border-bottom:3px double #ccc;
+width:100%;
+height:40em;
+}
+
+/* html */
+body {
+    background: #fff;
+    text-align: justify;
+    font-family: Tahoma, verdana, Arial, Helvetica, sans-serif;
+    font-size: .75em;
+    color: #505050;
+}
+
+h1, h2, h3 {
+    margin-top: 0;
+}
+
+h1 {
+    font-size: 3.4em;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 1.6em;
+}
+
+h3 {
+    font-size: 1em;
+}
+
+h4 {
+    font-size: 0.9em;
+}
+
+
+h4.post-title, h4.post-title a {
+    margin: 0;
+    padding: 30px 0 4px 0px;
+    font-size: 28px;
+    font-weight: normal;
+    border-bottom: none;
+    color: #f90;
+}
+
+h4.post-title a:hover {
+    border-bottom: 1px dotted #000000;
+}
+
+div.post-date {
+    margin: -4px 0px 20px 0px;
+    padding: 4px 0px;
+    border-bottom: 1px #DCDCDC dashed;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+
+div.grupo-nombre {
+    text-align: left;
+    background: #def;
+    color: #000;
+    font:bold 1.3em verdana,sans-serif;
+}
+
+div.grupo-nombre a:link,div.grupo-nombre a:visited{
+    font:normal small verdana,sans-serif;
+}
+
+div.grupo-info {
+    background: none;
+    color: #999;
+    margin-top: 1em;
+    text-align: center;
+}
+
+.grupo .title {
+    font-size:1.6em;
+}
+
+.grupo .meta {
+    font-size:1.1em;
+}
+
+div.post-comments {
+    text-align: right;
+    padding: 1em;
+}
+
+.post {
+
+}
+
+
+.post-body {
+    text-align: justify;
+    text-indent: 2em;
+font-size:1.3em;
+}
+
+.post-body a:hover{
+    text-decoration:underline;
+}
+
+.post-body p {
+    margin: 1em auto;
+}
+
+.post-body ul {
+    margin:2em 4em;
+    border-left:2px solid #dedede;
+}
+
+.post-body img {
+    display: block;
+    text-align: center;
+    max-width: 75%;
+    height: auto;
+    margin: auto;
+    padding:1em;
+    border:0px solid #83c2f3;
+}
+
+.destacado {
+background:#afa;
+}
+
+.bloque {
+        color: #000000;
+        width: auto;
+overflow:auto;
+margin:1em auto;
+}
+
+.logo {
+        width: 100%;
+        margin:0 1em;
+}
+
+/* objetos */
+
+#contenedor {
+        margin: 0 auto;
+        height: inherit;
+width:760px;
+}
+#lateral {
+        width: 25%;
+        height: auto;
+        float: right;
+        height: auto;
+background:#def;
+text-align:right;
+}
+
+#lateral ul li {
+text-align:right;
+list-style:none;
+}
+
+#logo img{
+        max-width:100%;
+}
+#contenido {
+        margin: 0;
+        width: 75%;
+        height: auto;
+        float: left;
+}
+#pagina {
+        height: auto;
+        margin: 0 1em;
+}
+
+#mailist-subscribe {
+    margin: 0;
+    text-align: center;
+    padding: .5em;
+    color:#f00;
+}
+
+
+#mailist-subscribe input {
+    border: 1px solid #ccc;
+    padding:0.1em;
+    width:99%;
+    text-align:center;
+}
+
+#mailist-subscribe .boton {
+background:#333;
+color:#fff;
+}
+
+#mailist-subscribe .textfield {
+color:#666;
+border:2px dashed #999;
+font-style:italic;
+}
+
+#mailist-subscribe .textfield:hover {
+border:2px solid #f00;
+font-style:normal;
+}
+
+#menu {
+font:1.2em sans-serif;
+
+}
+#menu ul li {
+margin:0;
+        list-style-type: circle;
+        padding:0 2em;
+display:inline;
+border-left:1px dotted #999;
+}
+
+#menu ul li:hover {
+
+}
+
+#pie {
+        width: 100%;
+        font-size: 1em;
+        clear: both;
+        text-align: center;
+}
+
+#lateral h2 {
+    text-align:right;
+    font-size:1.8em;
+    padding-right:0.8em;
+    color:#45869f;
+    border-bottom:1px dotted #00f;
+}
+
+#menu_grupos li {
+font-variant:small-caps;
+}
+
+#menu_grupos li:hover {
+list-style-type:square;
+}
+
+#enlaces .bloque img {
+display:block;
+text-align:center;
+max-width:100%;
+margin:auto;
+}
+
+#lista-articulos .bloque {
+height:200px;
+border:1px inset #fff;
+}
+
+#lista-articulos ul li {
+border-bottom:1px dashed #acf;
+padding:.2em;
+margin:.2em;
+}
+

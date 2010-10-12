@@ -1,0 +1,8 @@
+.post {
+	width:100% !important;
+}
+
+#ie {
+	display:block !important;
+	background:red;
+}

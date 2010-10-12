@@ -1,0 +1,370 @@
+
+* {
+border : 0 none;
+margin : 0;
+padding : 0;
+}
+legend {
+color : #45869f;
+font-size : 1.2em;
+font-weight : bolder;
+padding-bottom : 1em;
+padding-right : 1em;
+}
+input, textarea {
+background : #eeeeee none repeat scroll 0% 0%;
+border : 1px solid #cccccc;
+}
+ul li {
+margin : 1em 2em;
+}
+a {
+color : #398ed1;
+text-decoration : none;
+}
+a:hover {
+border-bottom : 0 dotted #333333;
+}
+a:focus {
+background : #aaccff none repeat scroll 0% 0%;
+outline : #0000ff 1px solid;
+}
+a img {
+border : medium none;
+}
+blockquote {
+background : #eeeeee none repeat scroll 0% 0%;
+font : italic 1em sans-serif;
+padding : 0.5em 1em;
+}
+code {
+font : 1.5em monospace;
+}
+pre {
+background : #aaccff none repeat scroll 0% 0%;
+border : 1px solid #0000ff;
+color : #000000;
+max-height : 600px;
+overflow : auto;
+padding : 1em;
+}
+object {
+background : #eeeeee none repeat scroll 0% 0%;
+border-bottom : 3px double #cccccc;
+height : 100%;
+width : 100%;
+}
+body {
+background : #ffffff none repeat scroll 0% 0%;
+color : #505050;
+font-family : verdana, sans-serif;
+font-size : 0.75em;
+text-align : justify;
+}
+h1, h2, h3 {
+margin-top : 0;
+}
+h1 {
+font-size : 3.4em;
+font-weight : normal;
+}
+h2 {
+font-size : 1.6em;
+}
+h3 {
+font-size : 1em;
+}
+h4 {
+font-size : 0.9em;
+}
+h2.post-title:hover {
+border-left : 1.5em solid #def;
+}
+.post-title {
+border-left : .5em solid #def;
+font-size : 1.5em;
+height : 3em;
+margin : 1em auto;
+text-align : left;
+padding-left:.5em;
+overflow:hidden;
+}
+.post-title, .post-title a {
+color : #0000ff;
+}
+.post-title a:hover {
+border-bottom : 0 dotted #000;
+}
+.post-date {
+color : gray;
+font-family : Arial, Helvetica, sans-serif;
+font-style : italic;
+display:block;
+text-align:right;
+}
+div.migas {
+color : #000000;
+font : bold 1.3em verdana, sans-serif;
+text-align : left;
+text-indent : 1em;
+}
+div.migas a:link, div.migas a:visited {
+font : small verdana, sans-serif;
+}
+div.grupo-info {
+background : transparent none repeat scroll 0% 0%;
+color : #999999;
+padding : 1em;
+text-align : center;
+}
+
+.page {height:auto !important;}
+
+.grupo .title {
+font-size : 1.6em;
+}
+.grupo .meta {
+font-size : 1.1em;
+}
+div.post-comments {
+border-right : 1em solid blue;
+padding-right : 1em;
+text-align : right;
+font : bold 1.1em sans-serif;
+}
+.post {
+float : left;
+padding : 0;
+width : 50%;
+}
+.post-body {
+text-align : justify;
+text-indent : 1em;
+height : 25.3em;
+overflow : hidden;
+border-bottom : 1px dotted blue;
+padding:.5em;
+}
+.post-body a:hover {
+text-decoration : underline;
+}
+.post-body p {
+margin : 1em auto;
+}
+.post-body li {
+margin : auto;
+text-indent : 0;
+width : 70%;
+text-align:left;
+}
+.post-body img {
+background : #dddddd none repeat scroll 0% 0%;
+display : block;
+height : auto;
+margin : 0em 1em;
+max-width : 85%;
+}
+.destacado {
+background : #aaffaa none repeat scroll 0% 0%;
+}
+.bloque {
+color : #000000;
+overflow : auto;
+width : auto;
+padding:1em;
+}
+
+#articulos .bloque {
+}
+
+.logo {
+clear : both;
+}
+div.form {
+margin : 0;
+}
+div.form input, div.form textarea, div.form select {
+margin : 0.2em 0 0.5em;
+}
+div.form fieldset {
+border : 1px solid #dddddd;
+margin : 0 0 10px;
+padding : 10px;
+}
+div.form label {
+display : block;
+font-size : 0.9em;
+font-weight : bold;
+}
+div.form .row {
+margin : 5px 0;
+}
+div.form .hint {
+color : #999999;
+margin : 0;
+padding : 0;
+}
+div.form .note {
+font-style : italic;
+}
+div.form span.required {
+color : red;
+}
+div.form div.error label, div.form label.error, div.form span.error {
+color : #cc0000;
+}
+div.form div.error input, div.form div.error textarea, div.form div.error select, div.form input.error, div.form textarea.error, div.form select.error {
+background : #ffeeee none repeat scroll 0% 0%;
+border-color : #cc0000;
+}
+div.form div.success input, div.form div.success textarea, div.form div.success select, div.form input.success, div.form textarea.success, div.form select.success {
+background : #e6efc2 none repeat scroll 0% 0%;
+border-color : #c6d880;
+}
+div.form .errorSummary {
+background : #ffeeee none repeat scroll 0% 0%;
+border : 2px solid #cc0000;
+font-size : 0.9em;
+margin : 0 0 20px;
+padding : 7px 7px 12px;
+}
+div.form .errorMessage {
+color : red;
+font-size : 0.9em;
+}
+div.form .errorSummary p {
+margin : 0;
+padding : 5px;
+}
+div.form .errorSummary ul {
+margin : 0;
+padding : 0 0 0 20px;
+}
+div.wide form label {
+float : left;
+margin-right : 10px;
+position : relative;
+text-align : right;
+width : 100px;
+}
+div.wide form .row {
+clear : left;
+}
+div.wide form .buttons {
+clear : left;
+padding-left : 110px;
+}
+div.wide form .errorMessage {
+margin : 0 0 0 110px;
+}
+.container {
+height : inherit;
+margin : 0 auto;
+}
+#logo a img {
+float : left;
+}
+#lateral {
+background : #ccddff none repeat scroll 0% 0%;
+float : right;
+height : auto;
+text-align : right;
+width : 20%;
+}
+#lateral li {
+list-style : none;
+text-align : right;
+}
+.content {
+font-size : 1.2em;
+height : auto;
+margin : 0;
+}
+.float-der {
+float : right;
+}
+.float-izq {
+float : left;
+}
+.text-der {
+text-align : right;
+}
+.text-izq {
+text-align : left;
+}
+#mailist-subscribe {
+color : #ff0000;
+float : right;
+margin : 0;
+text-align : center;
+width : 20%;
+}
+#mailist-subscribe input {
+margin : 0.1em;
+text-align : center;
+width : 99%;
+}
+#mailist-subscribe .textfield {
+background : #ffffff none repeat scroll 0% 0%;
+color : #666666;
+font-style : italic;
+}
+#mailist-subscribe .textfield:hover {
+outline : 2px solid #ff0000;
+font-style : normal;
+}
+#menu {
+background : #ccddff none repeat scroll 0% 0%;
+clear : both;
+font : 1.2em sans-serif;
+}
+#menu ul li {
+border-right : 1px dotted #999999;
+display : inline;
+list-style-type : circle;
+margin : 0;
+padding : 0 2em;
+}
+#footer {
+clear : both;
+font-size : 1em;
+text-align : center;
+margin:auto;
+width : 66%;
+}
+#lateral h3 {
+border-bottom : 1px dotted #0000ff;
+color : #45869f;
+font-size : 1.8em;
+padding-right : 0.8em;
+text-align : right;
+}
+#menu_grupos li {
+font-variant : small-caps;
+}
+#menu_grupos li:hover {
+list-style-type : square;
+}
+#lista-articulos .bloque {
+border : 1px inset #ffffff;
+height : 200px;
+}
+#lista-articulos {
+border-bottom : 1px dashed #aaccff;
+margin : 0.2em;
+padding : 0.2em;
+}
+#sidebar .bloque a img {
+display : block;
+margin : 1px;
+max-width : 100%;
+text-align : center;
+float:right;
+}
+.radiognu {
+width:100%;
+}
+#header {
+background : #ffffff none repeat scroll 0% 0%;
+}
+

@@ -1,0 +1,1194 @@
+# Webalizer V2.01-10 Incremental Data - 08/11/2010 23:23:01
+2010 8 11 23 23 1
+1975 1654 139 181 62 66 21289323 977 354 0
+13 114 191 1 11
+383 295 2389131 12 160 35
+509 482 3622237 14 217 41
+210 158 1884671 19 115 33
+80 51 1193081 20 53 25
+70 53 1190867 20 51 36
+60 36 804781 12 48 23
+29 19 472010 7 20 15
+168 155 3621331 25 91 39
+95 74 1665595 28 56 39
+145 129 2567235 25 83 33
+226 202 1878384 13 83 37
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+114 105 935135 93
+82 69 862105 41
+9 7 164051 7
+12 9 162883 7
+15 11 182247 12
+16 10 209133 12
+27 17 427848 17
+17 15 332976 15
+55 48 899427 26
+45 42 770539 20
+43 30 843883 29
+84 67 809572 40
+42 30 1019979 28
+76 71 820981 42
+53 35 828385 37
+47 31 696550 35
+237 221 2163057 79
+120 108 1652119 65
+82 71 1557445 51
+90 66 884191 48
+113 103 965290 40
+207 168 1441973 88
+107 53 1189684 53
+282 267 1469870 92
+0
+0
+0
+1654
+0
+0
+0
+0
+0
+0
+0
+9
+15
+0
+164
+0
+0
+0
+0
+0
+3
+130
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/wiki/lib/plugins/indexmenu/images/default/joinbottom.gif
+1 12 2053729377 660 0 0
+/
+0 147 3688618971 4997150 106 55
+/wiki/lib/images/toolbar/mono.png
+1 3 0 1155 0 0
+/wiki/lib/images/history.png
+1 3 3688618971 606 0 0
+/blog/inatux
+0 4 0 15400 4 0
+/wiki/lib/tpl/default/images/mail_icon.gif
+1 1 3688618971 918 0 0
+/wiki/como/chattr
+0 3 0 42759 2 1
+/wiki/como/remapear_las_teclas
+0 2 3688618971 26176 1 1
+/blog
+0 14 3688618971 478492 9 5
+/wiki/lib/images/toolbar/hequal.png
+1 3 3688618971 1278 0 0
+/wiki/lib/images/error.png
+1 1 3688618971 706 0 0
+/wiki/como/compilar_kernel_linux
+0 5 3688618971 175080 3 4
+/wiki/tutorial/ifconfig
+0 2 3688618971 34008 2 1
+/wiki/lib/plugins/indexmenu/images/default/minus.gif
+1 12 3688618971 860 0 0
+/wiki/lib/plugins/indexmenu/images/rarrow.gif
+1 12 3688618971 810 0 0
+/wiki/red/servicios
+0 1 3688618971 8370 0 0
+/wiki/lib/images/toolbar/italic.png
+1 3 185 966 0 0
+/wiki/playground/playground
+0 2 0 17016 1 1
+/wiki/lib/images/smileys/icon_doubt.gif
+1 3 8631040 2970 0 0
+/wiki/_media/howto/1.jpeg
+0 1 0 61413 0 0
+/wiki/howto
+0 2 0 38344 1 1
+/wiki/lib/tpl/default/images/buttonshadow.png
+1 23 0 5140 0 0
+/wiki/lib/images/smileys/icon_neutral.gif
+1 3 0 513 0 0
+/wiki/sitemap.xml.gz
+0 6 0 4962 0 0
+/wiki/lib/images/smileys/fixme.gif
+1 11 0 15785 0 0
+/wiki/lib/images/smileys/delete.gif
+1 3 0 4263 0 0
+/wiki/lib/images/license/button/gnufdl.png
+1 23 0 16780 0 0
+/wiki/lib/tpl/default/images/link_icon.gif
+1 23 0 18840 0 0
+/wiki/lib/plugins/indexmenu/images/default/join.gif
+1 12 0 690 0 0
+/wiki/proyecto/glradio/requerimientos
+0 19 0 358428 6 4
+/blog/temuco
+0 10 0 98039 8 7
+/wiki/_media/manuales/selinux-mysqld.png
+1 1 0 31484 0 0
+/wiki/lib/tpl/default/images/inputshadow.png
+1 23 0 3100 0 0
+/wiki/_media/howto/2.jpeg
+0 1 0 64912 0 0
+/wiki/lib/tpl/default/images/favicon.ico
+0 18 0 133308 0 0
+/wiki/sidebar
+0 2 0 49797 1 0
+/wiki/lib/images/smileys/icon_sad.gif
+1 3 0 513 0 0
+/wiki/proyecto/glradio/quickintro
+0 12 0 134171 2 1
+/wiki/lib/images/smileys/icon_silenced.gif
+1 3 0 693 0 0
+/wiki/lib/images/toolbar/link.png
+1 3 0 1737 0 0
+/wiki/lib/images/smileys/icon_wink.gif
+1 4 0 510 0 0
+/wiki/red/configuraciones_basicas_servicios
+0 3 0 26920 2 1
+/wiki/lib/plugins/note/images/tb_warning.png
+1 3 0 5610 0 0
+/wiki/lib/images/interwiki/doku.gif
+1 1 0 257 0 0
+/wiki/lib/plugins/indexmenu/images/default/plus.gif
+1 14 0 979 0 0
+/wiki/_media/proyectos/glradio/interfazicecast.png
+1 13 0 1322586 0 0
+/wiki/tutorial/sistema_ficheros
+0 2 0 27067 2 2
+/wiki/lib/images/toolbar/ul.png
+1 3 0 1149 0 0
+/wiki/wiki/dokuwiki
+0 2 0 29199 1 1
+/wiki/_media/howto/3.jpeg
+0 1 0 50947 0 0
+/wiki/tutorial/dhcp
+0 3 0 63040 3 1
+/wiki/lib/exe/indexer.php
+0 154 0 6468 0 31
+/wiki/lib/plugins/note/images/tip.png
+1 9 0 26181 0 0
+/wiki/lib/plugins/note/images/warning.png
+1 9 0 29241 0 0
+/blog/puertomontt
+0 16 0 626254 12 6
+/wiki/lib/plugins/indexmenu/images/default/folderopen.gif
+1 11 0 3540 0 0
+/wiki/Portada
+0 11 0 218263 3 1
+/wiki/como
+0 2 0 38307 2 2
+/wiki/tutorial/cortafuegos_de_tcpip
+0 2 0 59464 1 0
+/wiki/lib/images/toolbar/hplus.png
+1 3 0 1560 0 0
+/wiki/portada
+0 13 0 274270 1 0
+/wiki/proyecto/glradio
+0 14 0 151735 9 0
+/wiki/_media/howto/4.jpeg
+0 1 0 35908 0 0
+/wiki/disol2010-ideas
+0 3 0 64476 0 0
+/wiki/como/instalar_servidor_vnc
+0 7 0 146359 2 0
+/wiki/lib/plugins/note/images/tb_important.png
+1 3 0 4098 0 0
+/wiki/_detail/proyectos/glradio/interfazicecast.png
+1 1 0 1130 0 0
+/wiki/lib/exe/ajax.php
+0 48 0 3642 0 0
+/site/contact
+0 7 0 40390 5 4
+/wiki/lib/images/toolbar/underline.png
+1 3 0 1125 0 0
+/wiki/lib/images/smileys/icon_eek.gif
+1 3 0 510 0 0
+/wiki/lib/images/toolbar/chars.png
+1 3 0 1857 0 0
+/wiki/lib/tpl/default/images/button-donate.gif
+1 23 0 3740 0 0
+/wiki/lib/tpl/default/images/button-dw.png
+1 23 0 8540 0 0
+/wiki/wiki
+0 1 0 19260 1 1
+/wiki/lib/exe/js.php
+0 36 0 361071 0 4
+/wiki/_export/code/wiki/syntax
+0 1 0 55 1 1
+/wiki/como/usar_gitorious
+0 21 0 286010 5 3
+/wiki/lib/images/smileys/icon_smile2.gif
+1 3 0 522 0 0
+/themes/iglug/css/main.css
+0 59 0 297936 0 0
+/wiki/tutorial/ssh
+0 1 0 14821 0 1
+/wiki/lib/images/interwiki/wp.gif
+1 1 0 680 0 0
+/wiki/lib/images/toolbar/hminus.png
+1 3 0 1614 0 0
+/wiki/lib/tpl/default/images/tocdot2.gif
+1 11 0 8910 0 0
+/themes/iglug/img/we-run-gnu.png
+1 1 0 23392 0 0
+/wiki/
+0 35 0 751131 10 3
+/wiki/lib/images/smileys/icon_confused.gif
+1 3 0 513 0 0
+/wiki/_media/redes/servicios/vnc2.jpeg
+0 1 0 35842 0 0
+/wiki/lib/images/smileys/icon_doubt2.gif
+1 3 0 2976 0 0
+/wiki/lib/plugins/indexmenu/ajax.php
+0 1 0 372 0 0
+/wiki/lib/images/smileys/icon_cool.gif
+1 3 0 516 0 0
+/wiki/wiki/navigation
+0 3 0 26630 2 0
+/wiki/_media/proyectos/glradio/liquidsoapcorriendo.png
+1 15 0 1623804 0 0
+/wiki/lib/tpl/default/images/button-css.png
+1 23 0 5980 0 0
+/wiki/lib/images/smileys/icon_question.gif
+1 3 0 744 0 0
+/wiki/tutorial/posix
+0 3 0 38924 0 0
+/wiki/lib/plugins/indexmenu/images/default/folderh.gif
+1 12 0 5720 0 0
+/wiki/lib/images/close.png
+1 3 0 4035 0 0
+/wiki/lib/plugins/indexmenu/images/close.gif
+1 1 0 64 0 0
+/wiki/lib/plugins/indexmenu/images/default/page.gif
+1 12 0 5650 0 0
+/wiki/lib/plugins/note/images/tb_tip.png
+1 3 0 4323 0 0
+/wiki/_media/redes/servicios/vnc3.jpeg
+0 2 0 229276 0 0
+/wiki/lib/images/toolbar/smiley.png
+1 3 0 2265 0 0
+/wiki/lib/plugins/indexmenu/images/default/plusbottom.gif
+1 41 0 3608 0 0
+/wiki/lib/plugins/note/images/important.png
+1 8 0 18000 0 0
+/wiki/lib/images/wrap.gif
+1 3 0 258 0 0
+/wiki/lib/plugins/indexmenu/images/toc_bullet.gif
+1 9 0 592 0 0
+/wiki/como/configurar_mysql
+0 6 0 56100 4 5
+/wiki/proyecto
+0 2 0 38672 1 1
+/wiki/lib/plugins/indexmenu/images/indexmenu_toolbar.png
+1 3 0 2178 0 0
+/wiki/feed.php
+0 4 0 5657 1 0
+/wiki/como/usar gitorious
+0 1 0 9449 0 0
+/wiki/paquetes/listado
+0 5 0 254832 2 2
+/wiki/invitacion
+0 3 0 68937 2 2
+/wiki/lib/tpl/default/images/button-rss.png
+1 23 0 5600 0 0
+/site/page
+0 27 0 132597 18 6
+/wiki/_media/wiki/dokuwiki-128.png
+1 1 0 33615 0 0
+/wiki/lib/tpl/default/images/button-xhtml.png
+1 23 0 6420 0 0
+/wiki/lib/images/toolbar/linkextern.png
+1 3 0 2886 0 0
+/wiki/lib/images/smaller.gif
+1 3 0 258 0 0
+/wiki/lib/images/diff.png
+1 5 0 876 0 0
+/wiki/lib/images/toolbar/strike.png
+1 3 0 1245 0 0
+/wiki/lib/images/toolbar/h5.png
+1 3 0 1320 0 0
+/wiki/wiki/syntax
+0 3 0 19966 3 3
+/wiki/lib/plugins/indexmenu/jsmenu/menu.js
+0 16 0 32280 0 0
+/wiki/proyecto/glradio/tutoriales
+0 7 0 186147 3 1
+/wiki/admin
+0 1 0 19178 0 0
+/wiki/lib/images/toolbar/image.png
+1 3 0 1875 0 0
+/wiki/lib/images/toolbar/h.png
+1 3 0 1080 0 0
+/wiki/proyectos/glradio/requerimientos
+0 3 0 26480 2 1
+/wiki/lib/images/smileys/icon_exclaim.gif
+1 4 0 708 0 0
+/wiki/lib/plugins/note/images/note.png
+1 3 0 7560 0 0
+/wiki/lib/exe/css.php
+0 139 0 263063 8 14
+/wiki/lib/images/toolbar/h4.png
+1 3 0 1296 0 0
+/wiki/proyecto/glradio/guia
+0 54 0 4123602 34 11
+/wiki/lib/images/toolbar/sig.png
+1 3 0 1707 0 0
+/wiki/_detail/redes/servicios/vnc3.jpeg
+0 6 0 6774 0 0
+/wiki/lib/images/fileicons/xml.png
+1 2 0 950 0 0
+/wiki/como/configurar_sudo
+0 2 0 46197 1 0
+/wiki/lib/tpl/default/images/open.gif
+1 12 0 540 0 0
+/blog/osorno
+0 9 0 59787 6 3
+/wiki/lib/images/toolbar/h3.png
+1 3 0 1356 0 0
+/wiki/como/compilacion_kernel
+0 22 0 208448 17 16
+/wiki/proyecto/glradio/manual
+0 2 0 97256 1 1
+/wiki/lib/plugins/note/images/tb_note.png
+1 3 0 4383 0 0
+/wiki/lib/images/toolbar/ol.png
+1 3 0 1209 0 0
+/wiki/tutorial/vpn
+0 1 0 25926 0 0
+/wiki/paquetes
+0 1 0 19336 0 1
+/wiki/lib/tpl/default/images/button-php.gif
+1 23 0 4140 0 0
+/blog/concepcion
+0 21 0 451314 17 8
+/wiki/lib/images/toolbar/bold.png
+1 3 0 1299 0 0
+/wiki/lib/images/toolbar/h2.png
+1 3 0 1326 0 0
+/wiki/lib/images/smileys/icon_fun.gif
+1 3 0 1770 0 0
+/wiki/red
+0 1 0 19295 1 1
+/wiki/lib/images/smileys/icon_smile.gif
+1 3 0 522 0 0
+/blog/valparaiso
+0 8 0 53808 5 3
+/wiki/lib/plugins/indexmenu/jsmenu/usrmenu.js
+0 11 0 24453 0 0
+/wiki/lib/plugins/indexmenu/images/default/empty.gif
+1 12 0 620 0 0
+/wiki/_media/redes/servicios/vnc.jpg.jpeg
+0 1 0 23586 0 0
+/wiki/lib/images/smileys/icon_surprised.gif
+1 3 0 522 0 0
+/wiki/tutorial/python
+0 1 0 8365 1 1
+/wiki/como/configurar_openssl
+0 3 0 37752 2 2
+/wiki/lib/plugins/indexmenu/indexmenu.js
+0 23 0 339440 0 0
+/wiki/tutorial
+0 1 0 19336 0 0
+/wiki/lib/images/toolbar/hr.png
+1 3 0 987 0 0
+/wiki/lib/images/larger.gif
+1 3 0 261 0 0
+/wiki/lib/images/smileys/icon_biggrin.gif
+1 3 0 516 0 0
+/wiki/lib/plugins/indexmenu/images/default/folder.gif
+1 15 0 4224 0 0
+/wiki/lib/plugins/indexmenu/images/default/line.gif
+1 12 0 660 0 0
+/wiki/howto/chattr
+0 1 3688618971 9252 1 1
+/wiki/lib/images/blank.gif
+1 2 0 42 0 0
+/wiki/lib/images/toolbar/h1.png
+1 3 0 1260 0 0
+/wiki/lib/plugins/indexmenu/edit.js
+0 3 0 11391 0 0
+/wiki/tutorial/netstat
+0 2 0 26106 2 2
+/wiki/manual
+0 3 0 35371 3 3
+/wiki/lib/images/smileys/icon_razz.gif
+1 3 0 528 0 0
+/wiki/lib/plugins/indexmenu/images/default/folderhopen.gif
+1 12 0 5770 0 0
+/wiki/lib/images/smileys/icon_lol.gif
+1 3 0 1008 0 0
+/wiki/lib/plugins/indexmenu/images/default/base.gif
+1 12 0 5780 0 0
+/wiki/lib/plugins/indexmenu/images/default/minusbottom.gif
+1 12 0 850 0 0
+/wiki/proyecto/glradio/glosario
+0 2 0 21997 0 0
+# End Of Table - urls
+# -sites- (monthly)
+201.215.89.250
+0 3 2 50239 1 1280848282
+/blog/puertomontt
+69.63.190.247
+0 1 1 115986 0 0
+-
+109.104.93.2
+0 1 1 35161 1 1280874612
+/
+67.202.11.246
+0 2 1 78989 1 1281296624
+/wiki/proyecto/glradio/guia
+88.131.106.3
+0 1 0 3830 0 0
+-
+88.131.106.6
+0 1 1 32999 1 1281021745
+/
+204.236.235.245
+0 2 1 31190 1 1281335900
+/wiki/tutorial/dhcp
+190.230.45.218
+0 4 2 53707 1 1280634555
+/blog/puertomontt
+217.12.16.56
+0 1 0 3831 0 0
+-
+79.15.212.136
+0 4 2 49033 1 1280917486
+/
+190.95.104.124
+0 75 63 839962 6 1281277621
+/blog/concepcion
+190.20.207.13
+0 302 259 1659443 4 1280708446
+/wiki/lib/exe/indexer.php
+190.20.216.140
+0 1 0 320 1 1281109991
+-
+200.111.121.162
+0 3 2 47537 1 1281463750
+/blog/puertomontt
+200.55.212.195
+0 2 2 27768 1 1280940149
+/blog/concepcion
+66.249.71.172
+0 29 24 411376 15 1281568480
+/wiki/como/compilacion_kernel
+77.209.174.68
+0 7 5 116164 2 1280770797
+/wiki/lib/exe/js.php
+207.46.199.38
+0 2 1 36829 1 1281446975
+/blog
+220.181.7.116
+0 1 1 4172 1 1281049859
+/site/page
+207.46.199.40
+0 2 1 7900 1 1281207581
+/site/page
+220.181.7.121
+0 1 1 32999 1 1281356834
+/blog
+220.181.7.123
+0 1 1 6726 1 1281049866
+/blog/valparaiso
+220.181.7.124
+0 1 1 21558 1 1281326829
+/blog/concepcion
+220.181.7.126
+0 1 1 6726 1 1281401286
+/blog/valparaiso
+220.181.7.127
+0 1 1 21558 1 1281365222
+/blog/concepcion
+220.181.7.128
+0 1 1 32999 1 1281567275
+/
+220.181.7.131
+0 2 2 42838 2 1281418911
+/
+190.30.132.125
+0 27 27 355085 1 1281286688
+/wiki/lib/exe/indexer.php
+193.95.233.224
+0 3 3 63621 1 1280671453
+/blog/concepcion
+78.46.49.182
+0 4 4 113438 3 1280910525
+/blog/concepcion
+66.220.153.249
+0 1 1 115986 0 0
+-
+190.204.136.197
+0 20 20 69723 1 1280771092
+/wiki/lib/exe/indexer.php
+74.86.229.198
+0 1 1 3850 1 1280842217
+/blog/inatux
+207.46.204.177
+0 2 1 4643 0 0
+-
+207.46.204.178
+0 2 1 41839 1 1280728701
+/
+66.249.71.99
+0 1 1 40198 1 1280851583
+/blog/puertomontt
+210.97.192.110
+0 1 1 32999 1 1281029555
+/
+207.46.204.188
+0 2 1 36829 1 1281060761
+/
+207.46.204.193
+0 2 0 4150 1 1281108675
+-
+190.234.154.232
+0 20 20 69723 1 1280770731
+/wiki/lib/exe/indexer.php
+184.72.156.172
+0 3 2 69828 1 1281429650
+/
+184.72.130.61
+0 1 1 0 1 1281537521
+/
+69.63.189.246
+0 1 1 75159 1 1281286685
+/wiki/proyecto/glradio/guia
+69.63.189.248
+0 1 1 115986 0 0
+-
+69.63.189.249
+0 1 1 115986 0 0
+-
+119.63.193.56
+0 10 0 38300 0 0
+-
+123.125.66.29
+0 1 0 3830 0 0
+-
+123.125.66.35
+0 1 0 3830 0 0
+-
+201.222.250.246
+0 29 29 435919 1 1281462100
+/wiki/proyecto/glradio/guia
+67.195.112.170
+0 85 38 634736 27 1281526173
+/site/page
+123.125.66.44
+0 1 0 3830 0 0
+-
+123.125.66.48
+0 1 0 3830 0 0
+-
+189.129.203.225
+0 3 2 31599 1 1281400473
+/blog/concepcion
+184.72.144.26
+0 1 1 32999 1 1281464680
+/
+207.46.194.56
+0 2 1 36829 1 1281471754
+/blog
+65.52.6.206
+0 1 1 75159 1 1281286705
+/wiki/proyecto/glradio/guia
+207.46.12.236
+0 2 1 36829 1 1281291800
+/
+74.86.225.150
+0 1 1 3850 1 1280842181
+/blog/inatux
+207.46.13.44
+0 4 2 49542 2 1281049510
+/blog/osorno
+207.46.13.47
+0 2 1 36829 1 1281261920
+/
+211.154.136.237
+0 1 1 35161 1 1280857388
+/
+194.72.238.61
+0 1 1 0 1 1280772627
+/
+174.129.139.3
+0 7 7 526105 7 1281550728
+/wiki/proyecto/glradio/guia
+65.52.192.56
+0 1 1 0 1 1281228309
+/
+201.222.247.190
+0 167 128 994152 9 1280917688
+/wiki/lib/exe/indexer.php
+201.222.212.165
+0 23 12 247782 3 1280939403
+/wiki/lib/exe/indexer.php
+200.93.17.2
+0 5 3 89878 1 1280693718
+/
+66.249.71.233
+0 84 69 1615573 42 1281256282
+/
+207.46.13.95
+0 2 1 36829 1 1281514178
+/
+200.111.61.131
+0 9 7 165611 2 1281357839
+/site/page
+208.80.194.27
+0 1 1 32999 1 1281130922
+/
+208.80.194.28
+0 2 2 65998 2 1281536303
+/
+208.80.194.29
+0 1 1 35161 1 1280880511
+/
+190.20.248.205
+0 110 106 267582 1 1281568950
+/wiki/lib/exe/indexer.php
+208.80.194.30
+0 1 1 32999 1 1281003080
+/
+208.80.194.31
+0 1 1 32999 1 1281267919
+/
+190.47.16.230
+0 3 2 13891 1 1281373776
+/blog/inatux
+201.222.206.239
+0 65 61 944451 5 1280781685
+/wiki/lib/exe/indexer.php
+201.222.253.24
+0 7 2 58364 1 1281543802
+/
+200.91.9.131
+0 5 4 84535 1 1280933086
+/site/page
+190.22.204.33
+0 1 1 32999 1 1281107069
+/
+75.101.195.195
+0 5 5 375787 5 1281476313
+/wiki/proyecto/glradio/guia
+190.202.85.2
+0 173 163 2794825 16 1281532343
+/wiki/lib/exe/indexer.php
+207.46.204.237
+0 1 1 32999 1 1281514329
+/
+174.37.80.234
+0 1 1 3850 1 1280842309
+/blog/inatux
+207.46.204.240
+0 2 0 4152 1 1281195372
+-
+200.90.210.202
+0 3 2 43040 1 1281445632
+/
+201.223.140.204
+0 4 2 54070 1 1280798994
+/blog/puertomontt
+163.247.80.5
+0 4 2 46871 1 1281452959
+/
+216.104.15.138
+0 1 1 35161 1 1280934465
+/
+178.154.160.29
+0 140 131 2843738 84 1281568981
+/wiki/wiki/navigation
+150.70.64.200
+0 7 7 148836 2 1281359240
+/site/page
+220.181.7.59
+0 1 1 9839 1 1281049853
+/blog/temuco
+220.181.7.60
+0 1 1 7139 1 1281310157
+/site/page
+220.181.7.61
+0 1 1 6210 0 0
+-
+220.181.7.62
+0 2 2 41566 2 1281410957
+/site/page
+220.181.7.64
+0 2 2 54557 1 1281049864
+/blog
+220.181.7.65
+0 1 1 38009 1 1280688206
+/
+220.181.7.67
+0 1 1 4172 1 1281405552
+/site/page
+220.181.7.68
+0 2 2 11209 1 1281049846
+/site/page
+220.181.7.69
+0 1 1 6210 0 0
+-
+220.181.7.71
+0 1 1 6726 1 1281352883
+/blog/valparaiso
+220.181.7.72
+0 1 1 37496 1 1281395862
+/blog/puertomontt
+220.181.7.73
+0 1 0 302 1 1281415784
+-
+220.181.7.74
+0 1 1 32999 1 1281332568
+/blog
+220.181.7.75
+0 1 1 5770 1 1281377002
+/site/contact
+220.181.7.76
+0 1 1 32999 1 1281049828
+/
+192.132.228.1
+0 2 2 27405 1 1280761681
+/blog/concepcion
+220.181.7.77
+0 1 1 40198 1 1281049839
+/blog/puertomontt
+220.181.7.78
+0 1 1 32999 1 1281227918
+/
+190.110.131.41
+0 4 4 78418 1 1281483095
+/
+220.181.7.80
+0 1 1 4070 1 1281343115
+/site/page
+220.181.7.81
+0 1 1 32999 1 1281301826
+/
+220.181.7.83
+0 1 1 4172 1 1281348017
+/site/page
+220.181.7.86
+0 3 2 39071 3 1281338233
+-
+220.181.7.88
+0 2 2 40931 2 1281315626
+/site/contact
+220.181.7.89
+0 1 1 32999 1 1281443163
+/
+119.63.198.108
+0 1 1 21558 1 1281373822
+/blog/concepcion
+190.20.213.26
+0 4 2 51869 1 1280788647
+/
+220.181.7.90
+0 1 1 6210 0 0
+-
+220.181.7.94
+0 1 1 9839 1 1281320793
+/blog/temuco
+220.181.7.96
+0 2 1 38311 2 1281049849
+-
+190.20.207.100
+0 236 227 941761 8 1280792763
+/wiki/lib/exe/indexer.php
+62.128.158.151
+0 2 2 65998 1 1281120040
+/
+190.20.218.101
+0 4 2 46871 1 1280964616
+/
+190.164.128.202
+0 4 2 49033 1 1280945425
+/
+201.246.71.45
+0 103 69 333531 1 1280698610
+/wiki/lib/exe/indexer.php
+190.46.82.28
+0 28 28 360642 1 1281286237
+/wiki/lib/exe/indexer.php
+207.46.195.225
+0 1 1 5770 1 1280953813
+/site/contact
+207.46.13.134
+0 2 1 38991 1 1280934612
+/
+66.220.147.248
+0 1 1 115986 0 0
+-
+207.46.195.231
+0 1 1 35161 1 1280837787
+/
+207.46.195.233
+0 2 1 36829 1 1281402718
+/
+207.46.195.235
+0 4 2 49960 2 1281073632
+/site/page
+189.155.226.184
+0 2 2 41371 1 1280860513
+/blog
+207.46.195.240
+0 2 1 4671 0 0
+-
+190.20.123.156
+0 3 2 43040 1 1281139345
+/
+88.152.46.123
+0 4 2 54070 1 1280999790
+/blog/puertomontt
+79.146.227.18
+0 5 3 84194 1 1280910023
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+66.249.71.172
+0 13 11 103696 6 1281568480
+/wiki/como/compilacion_kernel
+220.181.7.128
+0 1 1 32999 1 1281567275
+/
+184.72.130.61
+0 1 1 0 1 1281537521
+/
+119.63.193.56
+0 2 0 7660 0 0
+-
+67.195.112.170
+0 3 1 8002 1 1281526173
+/site/page
+174.129.139.3
+0 1 1 75155 1 1281550728
+/wiki/proyecto/glradio/guia
+207.46.13.95
+0 2 1 36829 1 1281514178
+/
+208.80.194.28
+0 1 1 32999 1 1281536303
+/
+190.20.248.205
+0 110 106 267582 1 1281568950
+/wiki/lib/exe/indexer.php
+201.222.253.24
+0 7 2 58364 1 1281543802
+/
+190.202.85.2
+0 53 47 530673 6 1281532343
+/wiki/lib/exe/indexer.php
+207.46.204.237
+0 1 1 32999 1 1281514329
+/
+178.154.160.29
+0 31 29 691426 16 1281568981
+/wiki/wiki/navigation
+# End Of Table - sites (daily)
+# -referrers- 
+http://iglug.gnewbook.org/wiki/como/usar gitorious
+0 1
+http://iglug.gnewbook.org/wiki/como/configurar_sudo
+0 2
+http://iglug.gnewbook.org/wiki/tutorial/posix
+0 6
+http://www.google.cl/url
+0 8
+- (Direct Request)
+0 591
+http://iglug.gnewbook.org/wiki/como/compilar_kernel_linux
+0 5
+http://iglug.gnewbook.org/wiki/proyecto/glradio/requerimientos
+0 24
+http://iglug.gnewbook.org/wiki/proyecto/glradio
+0 102
+http://iglug.gnewbook.org/wiki/proyecto/glradio/tutoriales
+0 12
+http://iglug.gnewbook.org/wiki/sidebar
+0 3
+http://iglug.gnewbook.org/index.php
+0 1
+http://www.google.com/search
+0 1
+http://iglug.gnewbook.org/wiki/
+0 320
+http://iglug.gnewbook.org/wiki/Portada
+0 51
+http://iglug.gnewbook.org/wiki/portada
+0 87
+http://iglug.gnewbook.org/wiki/disol2010-ideas
+0 61
+http://iglug.gnewbook.org/blog/osorno
+0 2
+http://iglug.gnewbook.org/site/contact
+0 1
+http://www.google.co.ve/search
+0 1
+http://www.gulix.cl/wiki/Otras_Conumidades_Gnu/linux
+0 1
+http://iglug.gnewbook.org/wiki/proyecto
+0 3
+http://www.gnewbook.org/pg/profile/inatux
+0 1
+http://iglug.gnewbook.org/wiki/feed.php
+0 2
+http://iglug.gnewbook.org/wiki/paquetes/listado
+0 2
+http://www.bing.com/search
+0 1
+http://iglug.gnewbook.org/wiki/como/instalar_servidor_vnc
+0 77
+http://www.inatux.blogspot.com/
+0 1
+http://iglug.gnewbook.org/wiki/red/configuraciones_basicas_servicios
+0 3
+http://iglug.gnewbook.org/wiki/wiki/navigation
+0 3
+http://iglug.gnewbook.org/
+0 38
+http://iglug.gnewbook.org/wiki/wiki/dokuwiki
+0 2
+http://iglug.gnewbook.org/wiki/como/chattr
+0 1
+http://www.google.com.mx/search
+0 1
+http://iglug.gnewbook.org/wiki/proyectos/glradio/requerimientos
+0 4
+http://www.google.com.mx/imgres
+0 1
+http://iglug.gnewbook.org/wiki/tutorial/cortafuegos_de_tcpip
+0 3
+http://www.facebook.com/l.php
+0 2
+http://iglug.gnewbook.org/blog/inatux
+0 1
+http://www.google.com.ar/
+0 1
+http://www.facebook.com/profile.php
+0 1
+http://65.111.164.211/cgi-bin/cgiirc/irc.cgi
+0 8
+http://iglug.gnewbook.org/wiki/invitacion
+0 2
+http://iglug.gnewbook.org/wiki/proyecto/glradio/quickintro
+0 96
+http://iglug.gnewbook.org/wiki/lib/exe/css.php
+0 142
+http://iglug.gnewbook.org/wiki/proyecto/glradio/glosario
+0 2
+http://www.google.cl/search
+0 12
+http://www.ask.com/web
+0 1
+http://search.conduit.com/ResultsExt.aspx
+0 1
+http://iglug.gnewbook.org/blog/temuco
+0 2
+http://iglug.gnewbook.org/wiki/proyecto/glradio/manual
+0 3
+http://iglug.gnewbook.org/blog/puertomontt
+0 8
+http://www.google.es/url
+0 2
+http://www.google.it/search
+0 1
+http://iglug.gnewbook.org/wiki/como/configurar_openssl
+0 5
+http://iglug.gnewbook.org/wiki/como/usar_gitorious
+0 61
+http://iglug.gnewbook.org/blog/concepcion
+0 5
+http://iglug.gnewbook.org/blog/valparaiso
+0 1
+http://www.netcraft.com/survey/
+0 2
+http://iglug.gnewbook.org/site/page
+0 11
+http://ctmcorp.no-ip.org/
+0 2
+http://iglug.gnewbook.org/wiki/proyecto/glradio/guia
+0 178
+http://iglug.gnewbook.org/blog
+0 2
+# End Of Table - referrers
+# -agents- 
+pirst; MSIE 8.0;
+0 1
+SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-
+0 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2
+0 4
+PostRank/2.0 (postrank.com; 1 subscribers)
+0 12
+Baiduspider+(+http://www.baidu.jp/spider/)
+0 11
+Mozilla/5.0 (Windows; U; Windows NT 5.0; es-ES; rv:1.9.2.4) Gecko/20100611 Firefox/3.6.4
+0 1
+ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)
+0 2
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 140
+searchdnabot/Nutch-1.0 (SearchDNA bot; http://searchenginedna.com; crawl at searchenginedna dot com)
+0 3
+Googlebot-Image/1.0
+0 6
+Mozilla/5.0 (X11; U; Linux i686; es-AR; rv:1.9.2.8) Gecko/20100723 Ubuntu/10.04 (lucid) Firefox/3.6.8
+0 173
+Mozilla/5.0 (X11; U; Linux i686; es-cl) AppleWebKit/531.2+ (KHTML, like Gecko) Safari/531.2+ Epiphany/2.30.2
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.99 Safari/533.4
+0 5
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.2.6) Gecko/20100628 Mandriva Linux/1.9.2.6-1mdv2010.1 (2010.1) Firefox/3.6.6
+0 6
+Java/1.6.0_18
+0 3
+Baiduspider+(+http://www.baidu.com/search/spider.htm)
+0 46
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; YPC 3.2.0; SV1; FunWebProducts; .NET CLR 1.0.3705)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; FunWebProducts; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Hotbar
+0 1
+Mozilla/5.0 (X11; U; Linux x86_64; de; rv:1.9.2.8) Gecko/20100729 Firefox/3.6.7 (Iceweasel 3.6.7; Debian-3.6.7-1)
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET C
+0 2
+Mozilla/5.0 (X11; U; Linux i686; es-CL; rv:1.9.2.8) Gecko/20100723 Ubuntu/10.04 (lucid) Firefox/3.6.8
+0 284
+Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.1.7) Gecko/20091221 Firefox/3.5.7 GTB7.0 ( .NET CLR 3.5.30729)
+0 4
+Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8 ( .NET CLR 3.5.30729)
+0 5
+Mozilla/5.0 (X11; U; Linux; es-ES) AppleWebKit/532.4 (KHTML, like Gecko) quassel Safari/532.4
+0 1
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB0.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET C
+0 4
+Mozilla/5.0 (X11; U; Linux i686; es-CL; rv:1.9.2.8) Gecko/20100724 IceCat/3.6.8 (like Firefox/3.6.8)
+0 103
+Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.9.1.11) Gecko/20100701 Firefox/3.5.11
+0 4
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Every Toolbar; Wanadoo 6.7; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; FunWebProducts; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0;
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 2.0.50727)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; sbcydsl 3.12; YComp 5.0.0.0; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 103
+Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8 (.NET CLR 3.5.30729)
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 8
+DoCoMo/2.0 N905i(c100;TB;W24H16) (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
+0 6
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.126 Safari/533.4
+0 7
+Mozilla/5.0 (Windows; U; Windows NT 5.1; es-CL; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 4
+Mozilla/4.0 (compatible; Netcraft Web Server Survey)
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; .NET CLR 2.0.50727; .NET CLR 1.1.4322; .NET CLR 3
+0 3
+Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.8) Gecko/20100724 IceCat/3.6.7 (like Firefox/3.6.7)
+0 652
+Dvtu/1.0 (compatible; MSIE 6.0; Windows NT 5.1; Linux; Vxworks)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; QXW03398; SiteCoach 2.0)
+0 1
+Mozilla/5.0 (X11; U; Linux i686; es-ar) AppleWebKit/531.2+ (KHTML, like Gecko) Safari/531.2+ Debian/squeeze (2.30.2-3) Epipha
+0 26
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.1.249.1042 Safari/532.5
+0 3
+Mozilla/5.0 (compatible; Yahoo! Slurp/3.0; http://help.yahoo.com/help/us/ysearch/slurp)
+0 72
+Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8
+0 5
+Mozilla/5.0 (X11; U; Linux i686; es-AR; rv:1.9.1.9) Gecko/20100401 Trisquel/3.5 (awen) Firefox/3.5.9
+0 20
+facebookexternalhit/1.0 (+http://www.facebook.com/externalhit_uatext.php)
+0 5
+Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 (.NET CLR 3.5.30729)
+0 3
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.0.7) Gecko/20060909 Firefox/1.5.0.7
+0 2
+Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.3
+0 5
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.648; .NET CLR 3.
+0 3
+Mozilla/5.0 (compatible; NetcraftSurveyAgent/1.0; +info@netcraft.com)
+0 1
+Mozilla/5.0 (compatible; woriobot support [at] worio [dot] com +http://worio.com)
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) Speedy Spider (http://www.entireweb.com/about/search_tech/speedy_spider/)
+0 2
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)
+0 3
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+0 13
+msnbot/2.0b (+http://search.msn.com/msnbot.htm)
+0 37
+Mozilla/5.0 (X11; U; Linux x86_64; es-CL; rv:1.9.2.8) Gecko/20100723 Ubuntu/10.04 (lucid) Firefox/3.6.8
+0 28
+Mozilla/5.0 (X11; U; Linux i686; es-CL; rv:1.9.2.3) Gecko/20100423 Ubuntu/10.04 (lucid) Firefox/3.6.3
+0 102
+Mozilla/5.0 (Windows; U; Windows NT 6.0; es-ES; rv:1.9.2.8) Gecko/20100722 FireDownload/2.0.1 Firefox/3.6.8 FireTorrent/2.0.1
+0 4
+Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.125 Safari/533.4
+0 6
+Mozilla/5.0 (compatible; woriobot +http://worio.com)
+0 1
+# End Of Table - agents
+# -search strings- 
+kiosko registro entradas y salidas
+1
+reunion para un brainstorming
+1
+proyecto muser software
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

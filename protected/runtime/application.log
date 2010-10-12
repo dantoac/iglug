@@ -1,0 +1,2296 @@
+2010/07/15 11:29:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/15 12:54:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "comunitario" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('comunitario')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('comunitario')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/comunitari...')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/blog/comunitario?comienzo=0&articulos=6
+2010/07/15 13:49:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/15 14:54:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/15 15:53:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/15 15:54:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/15 15:54:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/15 16:24:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/15 17:41:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/15 17:41:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/15 19:13:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/15 19:59:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/15 19:59:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/15 20:01:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/15 20:25:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/15 21:58:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/15 23:44:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/16 05:05:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/16 08:37:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/16 08:44:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/16 13:40:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/16 16:16:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/16 17:17:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/16 17:30:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/16 17:31:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/16 18:58:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/16 20:00:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/16 20:44:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/16 22:54:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/17 01:19:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/17 03:38:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/17 06:29:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/17 09:15:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/17 16:20:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/17 16:20:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/17 16:29:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/17 20:00:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/17 20:40:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/17 21:08:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/17 21:52:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/17 23:36:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/18 01:17:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/18 02:37:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/18 04:17:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/18 11:17:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/18 13:42:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/18 13:58:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/18 14:12:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/18 14:24:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/18 14:24:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/18 15:35:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/18 16:20:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/18 17:41:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/18 17:42:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/18 17:42:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/18 17:42:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/18 17:42:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/18 17:42:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/18 17:42:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/18 20:57:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/18 21:20:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/19 01:50:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/19 02:06:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/19 03:26:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/19 09:02:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/19 11:51:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/19 11:51:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/19 13:44:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/19 15:50:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/19 16:15:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/19 16:26:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/19 20:08:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/19 21:16:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/19 21:33:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/19 21:33:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/19 23:14:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/19 23:14:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/20 01:45:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/20 07:48:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "inatux" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('inatux')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('inatux')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/inatux')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/blog/inatux
+2010/07/20 08:23:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/20 10:56:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/20 11:20:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/20 16:27:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/20 18:00:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/20 20:01:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/20 20:01:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/20 20:04:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/20 20:21:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/20 21:49:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/20 21:57:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/20 22:33:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/20 22:35:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/20 22:38:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/20 22:56:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/20 22:56:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/20 23:08:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/21 00:06:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/21 00:07:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/21 00:07:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/21 00:07:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/21 00:07:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/21 03:15:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/21 07:25:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/21 09:23:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/21 09:40:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/21 16:13:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/21 16:14:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/21 16:38:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/21 22:54:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/22 02:50:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/22 05:01:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/22 05:34:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/22 06:23:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/22 07:09:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/22 11:44:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/22 11:44:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/22 13:27:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/22 16:07:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/22 16:19:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/22 16:39:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/22 18:06:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/22 18:06:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/22 19:43:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/22 21:08:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/22 23:23:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/23 06:46:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/23 10:39:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/23 13:45:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/23 15:15:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/23 16:44:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/23 16:44:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/23 16:56:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/23 16:56:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/23 20:26:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/23 20:40:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/23 20:55:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/23 22:01:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/23 23:59:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/24 01:05:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/24 10:32:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/24 11:10:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/24 13:54:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/24 14:52:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/24 17:18:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/24 17:18:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/24 19:08:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/24 19:09:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/24 20:09:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/25 03:13:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/25 05:12:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/25 11:12:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/25 15:02:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/25 18:08:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/25 22:16:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "idle-tesla"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('idle-tesla')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/idle-tesla
+2010/07/25 22:57:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/26 00:33:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/26 00:33:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/26 07:32:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/26 07:48:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/26 09:07:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/26 10:47:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/26 11:40:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/26 14:44:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/26 14:58:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/26 14:58:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/26 16:34:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "document.location.href"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('document.locati...')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/document.location.href
+2010/07/26 19:34:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/26 19:59:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/26 20:11:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/26 21:28:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/27 00:59:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/27 00:59:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/27 00:59:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/27 01:13:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/27 01:13:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/27 01:47:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/27 01:47:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/27 03:30:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/27 03:30:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/27 09:31:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/27 11:52:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/27 13:53:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/27 13:53:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/27 22:52:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/27 23:22:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/28 05:10:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/28 12:07:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/28 12:42:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/28 12:42:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/28 18:32:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/29 00:59:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/29 00:59:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "inatux" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('inatux')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('inatux')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/inatux')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/blog/inatux
+2010/07/29 00:59:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "inatux" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('inatux')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('inatux')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/inatux')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/blog/inatux
+2010/07/29 06:55:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/29 07:18:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/29 09:57:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/29 09:57:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "comunitario" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('comunitario')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('comunitario')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/comunitari...')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/blog/comunitario
+2010/07/29 18:00:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/29 19:00:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción ".." solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('..')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('..')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/..')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/blog/..
+2010/07/29 19:01:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "\" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('\')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('\')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('site/\')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/site/\
+2010/07/29 19:32:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/29 19:36:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/29 20:53:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/29 20:53:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/29 23:06:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/29 23:31:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/29 23:32:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/29 23:33:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/29 23:49:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/30 00:40:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/30 01:04:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "idle-tesla"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('idle-tesla')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/idle-tesla
+2010/07/30 13:33:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/30 13:45:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/30 13:49:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/30 14:14:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/30 14:23:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/30 15:46:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/30 15:46:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/31 01:32:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/31 01:34:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/31 04:26:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/31 06:00:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/31 12:52:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/31 12:52:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/31 12:53:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/31 13:23:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/31 13:24:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/31 13:24:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/07/31 18:59:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/31 22:15:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "idle-tesla"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('idle-tesla')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/idle-tesla
+2010/07/31 22:44:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/07/31 23:07:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/01 03:49:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/01 03:49:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/01 08:20:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/01 12:21:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/01 12:37:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/01 14:36:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/01 20:14:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/01 20:15:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/01 20:30:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/01 20:30:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/01 20:58:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/01 21:57:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/01 23:58:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/02 01:23:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/02 01:23:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/02 01:29:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/02 05:47:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/02 12:25:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/02 14:44:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/02 14:44:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/02 14:49:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/02 14:49:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/02 22:29:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/02 22:37:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/02 22:37:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/02 22:54:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/02 22:54:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/03 00:48:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/03 01:30:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/03 01:30:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/03 01:59:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/03 03:21:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/03 06:35:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/03 10:04:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/03 10:35:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/03 10:35:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/03 10:50:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/03 13:29:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "inatux" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('inatux')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('inatux')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/inatux')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/blog/inatux
+2010/08/03 13:30:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "inatux" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('inatux')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('inatux')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/inatux')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/blog/inatux
+2010/08/03 13:31:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "inatux" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('inatux')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('inatux')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/inatux')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/blog/inatux
+2010/08/03 14:46:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/03 15:11:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/03 15:18:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/03 19:54:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/04 01:32:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/04 04:32:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/04 08:18:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/04 08:18:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/04 10:24:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/04 10:25:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/04 11:27:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/04 14:44:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/04 15:03:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/04 18:10:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/04 18:12:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/04 19:02:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/04 20:24:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/04 22:17:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/04 23:30:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/04 23:30:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/05 02:56:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/05 06:29:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/05 09:16:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/05 09:16:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/05 10:43:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/05 14:43:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/05 15:22:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/05 18:46:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/05 22:48:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/05 22:55:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/06 01:48:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/06 05:00:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/06 05:43:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/06 12:37:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/06 15:10:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/06 17:43:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/06 22:28:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/06 22:28:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/06 23:25:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/07 00:02:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/07 15:24:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/07 16:00:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/07 17:50:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/07 18:34:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/07 20:55:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/07 22:02:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/08 06:26:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/08 06:28:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/08 09:43:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/08 14:26:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/08 14:26:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/08 17:56:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/08 19:43:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/09 00:08:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/09 04:21:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/09 06:25:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/09 06:38:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/09 06:40:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/09 12:43:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/09 16:05:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/09 17:09:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "inatux" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('inatux')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('inatux')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/inatux')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/blog/inatux
+2010/08/09 17:09:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/09 18:55:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/09 19:06:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/09 22:06:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/10 00:34:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/10 00:47:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/10 08:40:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/10 08:57:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/10 10:06:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/10 11:01:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/10 12:43:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/10 12:47:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/10 13:07:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/10 15:10:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/10 15:10:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/10 18:09:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/10 20:22:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/11 00:04:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/11 00:10:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/11 07:17:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/11 08:32:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/11 11:27:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/11 11:29:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/11 12:12:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/11 13:05:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/11 16:23:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/11 16:25:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/11 16:25:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/11 16:27:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/11 16:27:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/11 21:53:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/11 23:14:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/12 00:44:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/12 01:42:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/12 03:10:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/12 10:53:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/12 10:53:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/12 11:02:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/12 11:26:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/12 11:35:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/12 11:38:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/12 13:45:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/12 13:59:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/12 15:40:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "robots.txt"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('robots.txt')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/robots.txt
+2010/08/12 16:44:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico
+2010/08/12 16:44:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in /home/iglug/yii/framework/web/CWebApplication.php:324
+Stack trace:
+#0 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('favicon.ico')
+#1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#2 /home/iglug/public_html/index.php(11): CApplication->run()
+#3 {main} REQUEST_URI=/favicon.ico

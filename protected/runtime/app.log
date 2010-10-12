@@ -1,0 +1,2093 @@
+2010/02/02 14:04:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "contacto".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('contacto')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('contacto')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('site/contacto')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=site/contacto
+2010/02/02 20:34:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "contacto".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('contacto')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('contacto')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('site/contacto')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=site/contacto
+2010/02/02 21:17:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "blog".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('blog')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('blog')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('site/blog')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=site/blog
+2010/02/02 21:28:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "actions".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('actions')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('actions')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('site/actions')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=site/actions
+2010/02/03 03:53:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "blog".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('blog')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('blog')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('site/blog')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=site/blog
+2010/02/03 03:56:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "blog".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('blog')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('blog')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/blog')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/blog
+2010/02/03 04:00:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "blog".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('blog')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('blog')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('site/blog')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=site/blog
+2010/02/03 04:01:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "blog".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('blog')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('blog')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/blog')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/blog
+2010/02/03 04:08:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "conce".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('conce')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/03 05:09:28 [error] [php] Missing argument 1 for BlogController::actionLeer(), called in /srv/http/yii/framework/web/actions/CInlineAction.php on line 32 and defined (/srv/http/iglug/protected/controllers/BlogController.php:30)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/leer
+2010/02/03 05:10:14 [error] [php] Missing argument 1 for BlogController::actionLeer(), called in /srv/http/yii/framework/web/actions/CInlineAction.php on line 32 and defined (/srv/http/iglug/protected/controllers/BlogController.php:30)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/leer
+2010/02/03 05:10:16 [error] [php] Missing argument 1 for BlogController::actionLeer(), called in /srv/http/yii/framework/web/actions/CInlineAction.php on line 32 and defined (/srv/http/iglug/protected/controllers/BlogController.php:30)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/leer
+2010/02/03 05:10:56 [error] [php] Missing argument 1 for BlogController::actionLeer(), called in /srv/http/yii/framework/web/actions/CInlineAction.php on line 32 and defined (/srv/http/iglug/protected/controllers/BlogController.php:30)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/leer
+2010/02/03 05:10:58 [error] [php] Missing argument 1 for BlogController::actionLeer(), called in /srv/http/yii/framework/web/actions/CInlineAction.php on line 32 and defined (/srv/http/iglug/protected/controllers/BlogController.php:30)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/leer
+2010/02/03 05:11:11 [error] [php] Missing argument 1 for BlogController::actionLeer(), called in /srv/http/yii/framework/web/actions/CInlineAction.php on line 32 and defined (/srv/http/iglug/protected/controllers/BlogController.php:30)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/leer
+2010/02/03 05:22:26 [error] [php] Missing argument 1 for BlogController::actionLeer(), called in /srv/http/yii/framework/web/actions/CInlineAction.php on line 32 and defined (/srv/http/iglug/protected/controllers/BlogController.php:35)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/leer
+2010/02/03 05:23:37 [error] [php] Argument 1 passed to BlogController::actionLeer() must be an instance of string, none given, called in /srv/http/yii/framework/web/actions/CInlineAction.php on line 32 and defined (/srv/http/iglug/protected/controllers/BlogController.php:35)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/leer
+2010/02/03 05:28:02 [error] [php] Argument 1 passed to BlogController::actionLeer() must be an instance of string, none given, called in /srv/http/yii/framework/web/actions/CInlineAction.php on line 32 and defined (/srv/http/iglug/protected/controllers/BlogController.php:35)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/leer
+2010/02/03 05:37:02 [error] [php] Missing argument 1 for BlogController::actionLeer(), called in /srv/http/yii/framework/web/actions/CInlineAction.php on line 32 and defined (/srv/http/iglug/protected/controllers/BlogController.php:32)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/leer
+2010/02/03 05:37:03 [error] [php] Missing argument 1 for BlogController::actionLeer(), called in /srv/http/yii/framework/web/actions/CInlineAction.php on line 32 and defined (/srv/http/iglug/protected/controllers/BlogController.php:32)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/leer
+2010/02/03 05:37:10 [error] [php] Missing argument 1 for BlogController::actionLeer(), called in /srv/http/yii/framework/web/actions/CInlineAction.php on line 32 and defined (/srv/http/iglug/protected/controllers/BlogController.php:32)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/leer
+2010/02/03 05:37:14 [error] [php] Missing argument 1 for BlogController::actionLeer(), called in /srv/http/yii/framework/web/actions/CInlineAction.php on line 32 and defined (/srv/http/iglug/protected/controllers/BlogController.php:32)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/leer
+2010/02/03 05:37:24 [error] [php] Missing argument 1 for BlogController::actionLeer(), called in /srv/http/yii/framework/web/actions/CInlineAction.php on line 32 and defined (/srv/http/iglug/protected/controllers/BlogController.php:32)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/leer&1
+2010/02/03 05:37:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "leer?4".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('leer?4')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('leer?4')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/leer?4')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/leer?4
+2010/02/03 05:37:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "leer?conce".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('leer?conce')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('leer?conce')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/leer?conce')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/leer?conce
+2010/02/03 05:41:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "leer?conce".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('leer?conce')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('leer?conce')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/leer?conce')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/leer?conce
+2010/02/03 05:41:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "leer?conce".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('leer?conce')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('leer?conce')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/leer?conce')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/leer?conce
+2010/02/03 05:41:48 [error] [php] Missing argument 1 for BlogController::actionLeer(), called in /srv/http/yii/framework/web/actions/CInlineAction.php on line 32 and defined (/srv/http/iglug/protected/controllers/BlogController.php:32)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/leer
+2010/02/03 05:41:52 [error] [php] Missing argument 1 for BlogController::actionLeer(), called in /srv/http/yii/framework/web/actions/CInlineAction.php on line 32 and defined (/srv/http/iglug/protected/controllers/BlogController.php:32)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/leer
+2010/02/03 05:41:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "leer?inatux".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('leer?inatux')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('leer?inatux')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/leer?inatu...')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/leer?inatux
+2010/02/03 05:42:14 [error] [php] Missing argument 1 for BlogController::actionLeer(), called in /srv/http/yii/framework/web/actions/CInlineAction.php on line 32 and defined (/srv/http/iglug/protected/controllers/BlogController.php:32)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/leer/inatux
+2010/02/03 05:42:25 [error] [php] Missing argument 1 for BlogController::actionLeer(), called in /srv/http/yii/framework/web/actions/CInlineAction.php on line 32 and defined (/srv/http/iglug/protected/controllers/BlogController.php:32)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/leer&inatux
+2010/02/03 05:44:03 [error] [php] Missing argument 1 for BlogController::actionLeer(), called in /srv/http/yii/framework/web/actions/CInlineAction.php on line 32 and defined (/srv/http/iglug/protected/controllers/BlogController.php:32)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/leer&inatux
+2010/02/03 05:44:05 [error] [php] Missing argument 1 for BlogController::actionLeer(), called in /srv/http/yii/framework/web/actions/CInlineAction.php on line 32 and defined (/srv/http/iglug/protected/controllers/BlogController.php:32)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/leer&inatux
+2010/02/03 05:44:08 [error] [php] Missing argument 1 for BlogController::actionLeer(), called in /srv/http/yii/framework/web/actions/CInlineAction.php on line 32 and defined (/srv/http/iglug/protected/controllers/BlogController.php:32)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/leer
+2010/02/03 05:44:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "leer?4".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('leer?4')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('leer?4')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/leer?4')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/leer?4
+2010/02/03 05:44:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "leer?4".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('leer?4')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('leer?4')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/leer?4')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/leer?4
+2010/02/03 06:23:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested view "index" is not found.' in /srv/http/yii/framework/web/actions/CViewAction.php:110
+Stack trace:
+#0 /srv/http/yii/framework/web/actions/CViewAction.php(121): CViewAction->resolveView('index')
+#1 /srv/http/yii/framework/web/CController.php(300): CViewAction->run()
+#2 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CViewAction))
+#3 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CViewAction), Array)
+#4 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('page')
+#5 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('site/page')
+#6 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#7 /srv/http/iglug/index.php(11): CApplication->run()
+#8 {main} REQUEST_URI=/iglug/index.php?r=site/page&view=
+2010/02/03 06:23:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "page".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('page')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('page')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('site/page')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=site/page&view=
+2010/02/03 06:23:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested view "index" is not found.' in /srv/http/yii/framework/web/actions/CViewAction.php:110
+Stack trace:
+#0 /srv/http/yii/framework/web/actions/CViewAction.php(121): CViewAction->resolveView('index')
+#1 /srv/http/yii/framework/web/CController.php(300): CViewAction->run()
+#2 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CViewAction))
+#3 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CViewAction), Array)
+#4 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('paje')
+#5 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('site/paje')
+#6 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#7 /srv/http/iglug/index.php(11): CApplication->run()
+#8 {main} REQUEST_URI=/iglug/index.php?r=site/paje&view=
+2010/02/03 06:24:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "paje".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('paje')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('paje')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('site/paje')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=site/paje&view=about
+2010/02/06 22:23:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/?r=blog/
+2010/02/06 22:23:51 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/controllers/BlogController.php:38)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/?r=blog/conce
+2010/02/06 22:26:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/?r=blog/
+2010/02/06 22:26:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/?r=blog
+2010/02/06 22:28:23 [error] [php] Use of undefined constant index - assumed 'index' (/srv/http/iglug/protected/controllers/BlogController.php:53)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/?r=blog
+2010/02/06 22:28:26 [error] [php] Use of undefined constant index - assumed 'index' (/srv/http/iglug/protected/controllers/BlogController.php:53)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/?r=blog/
+2010/02/06 22:31:51 [error] [php] Undefined variable: blogCSS (/srv/http/iglug/protected/views/blog/conce.php:3)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(49): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/?r=blog/conce
+2010/02/06 22:32:11 [error] [php] Undefined variable: blogCss (/srv/http/iglug/protected/views/blog/conce.php:3)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(49): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/?r=blog/conce
+2010/02/06 22:32:35 [error] [php] Undefined variable: blogCss (/srv/http/iglug/protected/views/blog/conce.php:3)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(49): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/?r=blog/conce
+2010/02/06 22:32:36 [error] [php] Undefined variable: blogCss (/srv/http/iglug/protected/views/blog/conce.php:3)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(49): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/?r=blog/conce
+2010/02/06 22:33:08 [error] [php] Undefined variable: blogCss (/srv/http/iglug/protected/views/blog/conce.php:3)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(49): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/?r=blog/conce
+2010/02/06 22:33:11 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.blogCss" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/views/blog/conce.php(3): CComponent->__get('blogCss')
+#1 /srv/http/yii/framework/web/CBaseController.php(119): require('/srv/http/iglug...')
+#2 /srv/http/yii/framework/web/CBaseController.php(88): CBaseController->renderInternal('/srv/http/iglug...', NULL, true)
+#3 /srv/http/yii/framework/web/CController.php(732): CBaseController->renderFile('/srv/http/iglug...', NULL, true)
+#4 /srv/http/yii/framework/web/CController.php(671): CController->renderPartial('conce', NULL, true)
+#5 /srv/http/iglug/protected/controllers/BlogController.php(49): CController->render('conce')
+#6 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#7 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#8 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#9 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#11 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#12 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#13 /srv/http/iglug/index.php(11): CApplication->run()
+#14 {main} REQUEST_URI=/iglug/?r=blog/conce
+2010/02/12 03:04:24 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/controllers/BlogController.php:39)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/?r=blog/conce
+2010/02/12 03:05:00 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/controllers/BlogController.php:39)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/?r=blog/conce
+2010/02/12 03:05:01 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/controllers/BlogController.php:39)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/?r=blog/conce
+2010/02/12 03:27:26 [error] [php] Undefined variable: blogCss (/srv/http/iglug/protected/views/blog/conce.php:3)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(50): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/?r=blog/conce
+2010/02/12 04:42:32 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/controllers/BlogController.php:37)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:00:06 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/views/blog/conce.php:12)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(42): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:00:29 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/views/blog/conce.php:12)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(42): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:00:38 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.feed" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/views/blog/conce.php(12): CComponent->__get('feed')
+#1 /srv/http/yii/framework/web/CBaseController.php(119): require('/srv/http/iglug...')
+#2 /srv/http/yii/framework/web/CBaseController.php(88): CBaseController->renderInternal('/srv/http/iglug...', Array, true)
+#3 /srv/http/yii/framework/web/CController.php(732): CBaseController->renderFile('/srv/http/iglug...', Array, true)
+#4 /srv/http/yii/framework/web/CController.php(671): CController->renderPartial('conce', Array, true)
+#5 /srv/http/iglug/protected/controllers/BlogController.php(42): CController->render('conce', Array)
+#6 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#7 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#8 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#9 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#11 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#12 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#13 /srv/http/iglug/index.php(11): CApplication->run()
+#14 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:00:53 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/views/blog/conce.php:12)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(42): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:03:52 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.feed" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/views/blog/conce.php(12): CComponent->__get('feed')
+#1 /srv/http/yii/framework/web/CBaseController.php(119): require('/srv/http/iglug...')
+#2 /srv/http/yii/framework/web/CBaseController.php(88): CBaseController->renderInternal('/srv/http/iglug...', Array, true)
+#3 /srv/http/yii/framework/web/CController.php(732): CBaseController->renderFile('/srv/http/iglug...', Array, true)
+#4 /srv/http/yii/framework/web/CController.php(671): CController->renderPartial('conce', Array, true)
+#5 /srv/http/iglug/protected/controllers/BlogController.php(42): CController->render('conce', Array)
+#6 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#7 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#8 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#9 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#11 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#12 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#13 /srv/http/iglug/index.php(11): CApplication->run()
+#14 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:06:41 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/views/blog/conce.php:12)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(42): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:07:10 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/views/blog/conce.php:12)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(42): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:07:18 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/views/blog/conce.php:12)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(42): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:08:00 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/views/blog/conce.php:12)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(42): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:08:01 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/views/blog/conce.php:12)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(42): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:08:13 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.40cd750bba9870f18aada2478b24840a" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/views/blog/conce.php(12): CComponent->__get('40cd750bba9870f...')
+#1 /srv/http/yii/framework/web/CBaseController.php(119): require('/srv/http/iglug...')
+#2 /srv/http/yii/framework/web/CBaseController.php(88): CBaseController->renderInternal('/srv/http/iglug...', Array, true)
+#3 /srv/http/yii/framework/web/CController.php(732): CBaseController->renderFile('/srv/http/iglug...', Array, true)
+#4 /srv/http/yii/framework/web/CController.php(671): CController->renderPartial('conce', Array, true)
+#5 /srv/http/iglug/protected/controllers/BlogController.php(42): CController->render('conce', Array)
+#6 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#7 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#8 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#9 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#11 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#12 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#13 /srv/http/iglug/index.php(11): CApplication->run()
+#14 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:08:16 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.40cd750bba9870f18aada2478b24840a" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/views/blog/conce.php(12): CComponent->__get('40cd750bba9870f...')
+#1 /srv/http/yii/framework/web/CBaseController.php(119): require('/srv/http/iglug...')
+#2 /srv/http/yii/framework/web/CBaseController.php(88): CBaseController->renderInternal('/srv/http/iglug...', Array, true)
+#3 /srv/http/yii/framework/web/CController.php(732): CBaseController->renderFile('/srv/http/iglug...', Array, true)
+#4 /srv/http/yii/framework/web/CController.php(671): CController->renderPartial('conce', Array, true)
+#5 /srv/http/iglug/protected/controllers/BlogController.php(42): CController->render('conce', Array)
+#6 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#7 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#8 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#9 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#11 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#12 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#13 /srv/http/iglug/index.php(11): CApplication->run()
+#14 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:08:52 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.40cd750bba9870f18aada2478b24840a" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/views/blog/conce.php(12): CComponent->__get('40cd750bba9870f...')
+#1 /srv/http/yii/framework/web/CBaseController.php(119): require('/srv/http/iglug...')
+#2 /srv/http/yii/framework/web/CBaseController.php(88): CBaseController->renderInternal('/srv/http/iglug...', Array, true)
+#3 /srv/http/yii/framework/web/CController.php(732): CBaseController->renderFile('/srv/http/iglug...', Array, true)
+#4 /srv/http/yii/framework/web/CController.php(671): CController->renderPartial('conce', Array, true)
+#5 /srv/http/iglug/protected/controllers/BlogController.php(41): CController->render('conce', Array)
+#6 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#7 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#8 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#9 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#11 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#12 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#13 /srv/http/iglug/index.php(11): CApplication->run()
+#14 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:09:00 [error] [php] Undefined variable: rss (/srv/http/iglug/protected/views/blog/conce.php:12)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(41): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:28:47 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/controllers/BlogController.php:40)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:29:03 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/views/blog/conce.php:12)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(40): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:29:23 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/views/blog/conce.php:17)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(40): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:29:51 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/controllers/BlogController.php:35)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:39:06 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.simplepie" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/controllers/BlogController.php(29): CComponent->__get('simplepie')
+#1 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#2 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#3 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#4 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#6 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#7 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#8 /srv/http/iglug/index.php(11): CApplication->run()
+#9 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:40:05 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.simplepie" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/controllers/BlogController.php(27): CComponent->__get('simplepie')
+#1 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#2 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#3 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#4 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#6 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#7 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#8 /srv/http/iglug/index.php(11): CApplication->run()
+#9 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:40:23 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.simplepie" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/controllers/BlogController.php(27): CComponent->__get('simplepie')
+#1 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#2 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#3 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#4 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#6 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#7 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#8 /srv/http/iglug/index.php(11): CApplication->run()
+#9 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:40:28 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.simplepie" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/controllers/BlogController.php(27): CComponent->__get('simplepie')
+#1 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#2 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#3 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#4 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#6 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#7 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#8 /srv/http/iglug/index.php(11): CApplication->run()
+#9 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:40:35 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.simplepie" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/controllers/BlogController.php(27): CComponent->__get('simplepie')
+#1 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#2 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#3 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#4 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#6 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#7 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#8 /srv/http/iglug/index.php(11): CApplication->run()
+#9 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:41:29 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/controllers/BlogController.php:41)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:42:09 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.simplepie" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/controllers/BlogController.php(28): CComponent->__get('simplepie')
+#1 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#2 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#3 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#4 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#6 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#7 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#8 /srv/http/iglug/index.php(11): CApplication->run()
+#9 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:46:25 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.simplepie" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/controllers/BlogController.php(28): CComponent->__get('simplepie')
+#1 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#2 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#3 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#4 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#6 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#7 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#8 /srv/http/iglug/index.php(11): CApplication->run()
+#9 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:46:26 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.simplepie" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/controllers/BlogController.php(28): CComponent->__get('simplepie')
+#1 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#2 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#3 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#4 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#6 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#7 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#8 /srv/http/iglug/index.php(11): CApplication->run()
+#9 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 05:47:26 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.simplepie" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/controllers/BlogController.php(29): CComponent->__get('simplepie')
+#1 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#2 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#3 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#4 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#6 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#7 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#8 /srv/http/iglug/index.php(11): CApplication->run()
+#9 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:23:39 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.simplepie" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/controllers/BlogController.php(29): CComponent->__get('simplepie')
+#1 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#2 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#3 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#4 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#6 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#7 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#8 /srv/http/iglug/index.php(11): CApplication->run()
+#9 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:24:23 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.simplepie" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/controllers/BlogController.php(29): CComponent->__get('simplepie')
+#1 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#2 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#3 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#4 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#6 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#7 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#8 /srv/http/iglug/index.php(11): CApplication->run()
+#9 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:27:42 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/controllers/BlogController.php:39)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:27:56 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/controllers/BlogController.php:39)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:27:58 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/controllers/BlogController.php:39)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:28:09 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/controllers/BlogController.php:39)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:28:18 [error] [php] Undefined variable: blogCss (/srv/http/iglug/protected/views/blog/conce.php:3)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(39): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:28:28 [error] [php] Undefined variable: feed (/srv/http/iglug/protected/views/blog/conce.php:17)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(39): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:39:56 [error] [php] include(idna_convert.php): failed to open stream: No such file or directory (/srv/http/yii/framework/YiiBase.php:338)
+Stack trace:
+#0 unknown(0): spl_autoload_call()
+#1 /srv/http/iglug/protected/vendors/simplepie.php(7587): class_exists()
+#2 /srv/http/iglug/protected/vendors/simplepie.php(1637): SimplePie_File->SimplePie_File()
+#3 /srv/http/iglug/protected/views/blog/conce.php(14): SimplePie->init()
+#4 /srv/http/yii/framework/web/CBaseController.php(119): require()
+#5 /srv/http/yii/framework/web/CBaseController.php(88): BlogController->renderInternal()
+#6 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#7 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#8 /srv/http/iglug/protected/controllers/BlogController.php(37): BlogController->render()
+#9 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#10 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#11 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#12 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#13 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#14 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#15 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#16 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:42:17 [error] [php] include(idna_convert.php): failed to open stream: No such file or directory (/srv/http/yii/framework/YiiBase.php:338)
+Stack trace:
+#0 unknown(0): spl_autoload_call()
+#1 /srv/http/iglug/protected/vendors/simplepie.php(7587): class_exists()
+#2 /srv/http/iglug/protected/vendors/simplepie.php(1637): SimplePie_File->SimplePie_File()
+#3 /srv/http/iglug/protected/views/blog/conce.php(14): SimplePie->init()
+#4 /srv/http/yii/framework/web/CBaseController.php(119): require()
+#5 /srv/http/yii/framework/web/CBaseController.php(88): BlogController->renderInternal()
+#6 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#7 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#8 /srv/http/iglug/protected/controllers/BlogController.php(37): BlogController->render()
+#9 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#10 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#11 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#12 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#13 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#14 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#15 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#16 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/?r=blog/conce
+2010/02/12 06:42:17 [error] [php] include(idna_convert.php): failed to open stream: No such file or directory (/srv/http/yii/framework/YiiBase.php:338)
+Stack trace:
+#0 unknown(0): spl_autoload_call()
+#1 /srv/http/iglug/protected/vendors/simplepie.php(7587): class_exists()
+#2 /srv/http/iglug/protected/vendors/simplepie.php(1637): SimplePie_File->SimplePie_File()
+#3 /srv/http/iglug/protected/views/blog/conce.php(14): SimplePie->init()
+#4 /srv/http/yii/framework/web/CBaseController.php(119): require()
+#5 /srv/http/yii/framework/web/CBaseController.php(88): BlogController->renderInternal()
+#6 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#7 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#8 /srv/http/iglug/protected/controllers/BlogController.php(37): BlogController->render()
+#9 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#10 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#11 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#12 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#13 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#14 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#15 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#16 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/?r=blog/conce
+2010/02/12 06:46:19 [error] [php] include(simplepie.php): failed to open stream: No such file or directory (/srv/http/yii/framework/YiiBase.php:338)
+Stack trace:
+#0 /srv/http/iglug/protected/controllers/BlogController.php(27): spl_autoload_call()
+#1 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#2 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#3 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#4 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#5 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#6 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#7 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#8 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:46:20 [error] [php] include(simplepie.php): failed to open stream: No such file or directory (/srv/http/yii/framework/YiiBase.php:338)
+Stack trace:
+#0 /srv/http/iglug/protected/controllers/BlogController.php(27): spl_autoload_call()
+#1 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#2 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#3 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#4 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#5 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#6 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#7 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#8 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:46:29 [error] [php] include(simplepie.php): failed to open stream: No such file or directory (/srv/http/yii/framework/YiiBase.php:338)
+Stack trace:
+#0 /srv/http/iglug/protected/controllers/BlogController.php(27): spl_autoload_call()
+#1 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#2 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#3 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#4 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#5 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#6 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#7 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#8 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:46:49 [error] [php] include(simplepie.php): failed to open stream: No such file or directory (/srv/http/yii/framework/YiiBase.php:338)
+Stack trace:
+#0 /srv/http/iglug/protected/controllers/BlogController.php(27): spl_autoload_call()
+#1 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#2 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#3 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#4 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#5 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#6 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#7 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#8 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:46:54 [error] [php] include(simplepie.php): failed to open stream: No such file or directory (/srv/http/yii/framework/YiiBase.php:338)
+Stack trace:
+#0 /srv/http/iglug/protected/controllers/BlogController.php(27): spl_autoload_call()
+#1 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#2 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#3 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#4 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#5 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#6 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#7 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#8 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:47:09 [error] [php] include(simplepie.php): failed to open stream: No such file or directory (/srv/http/yii/framework/YiiBase.php:338)
+Stack trace:
+#0 /srv/http/iglug/protected/controllers/BlogController.php(27): spl_autoload_call()
+#1 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#2 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#3 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#4 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#5 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#6 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#7 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#8 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:47:31 [error] [php] include(simplepie.php): failed to open stream: No such file or directory (/srv/http/yii/framework/YiiBase.php:338)
+Stack trace:
+#0 /srv/http/iglug/protected/controllers/BlogController.php(27): spl_autoload_call()
+#1 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#2 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#3 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#4 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#5 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#6 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#7 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#8 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:47:33 [error] [php] include(simplepie.php): failed to open stream: No such file or directory (/srv/http/yii/framework/YiiBase.php:338)
+Stack trace:
+#0 /srv/http/iglug/protected/controllers/BlogController.php(27): spl_autoload_call()
+#1 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#2 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#3 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#4 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#5 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#6 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#7 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#8 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:47:40 [error] [php] include(idna_convert.php): failed to open stream: No such file or directory (/srv/http/yii/framework/YiiBase.php:338)
+Stack trace:
+#0 unknown(0): spl_autoload_call()
+#1 /srv/http/iglug/protected/vendors/simplepie.php(7587): class_exists()
+#2 /srv/http/iglug/protected/vendors/simplepie.php(1637): SimplePie_File->SimplePie_File()
+#3 /srv/http/iglug/protected/views/blog/conce.php(14): SimplePie->init()
+#4 /srv/http/yii/framework/web/CBaseController.php(119): require()
+#5 /srv/http/yii/framework/web/CBaseController.php(88): BlogController->renderInternal()
+#6 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#7 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#8 /srv/http/iglug/protected/controllers/BlogController.php(37): BlogController->render()
+#9 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#10 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#11 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#12 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#13 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#14 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#15 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#16 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:47:52 [error] [php] include(idna_convert.php): failed to open stream: No such file or directory (/srv/http/yii/framework/YiiBase.php:338)
+Stack trace:
+#0 unknown(0): spl_autoload_call()
+#1 /srv/http/iglug/protected/vendors/simplepie.php(7587): class_exists()
+#2 /srv/http/iglug/protected/vendors/simplepie.php(1637): SimplePie_File->SimplePie_File()
+#3 /srv/http/iglug/protected/views/blog/conce.php(14): SimplePie->init()
+#4 /srv/http/yii/framework/web/CBaseController.php(119): require()
+#5 /srv/http/yii/framework/web/CBaseController.php(88): BlogController->renderInternal()
+#6 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#7 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#8 /srv/http/iglug/protected/controllers/BlogController.php(37): BlogController->render()
+#9 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#10 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#11 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#12 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#13 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#14 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#15 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#16 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:47:54 [error] [php] include(idna_convert.php): failed to open stream: No such file or directory (/srv/http/yii/framework/YiiBase.php:338)
+Stack trace:
+#0 unknown(0): spl_autoload_call()
+#1 /srv/http/iglug/protected/vendors/simplepie.php(7587): class_exists()
+#2 /srv/http/iglug/protected/vendors/simplepie.php(1637): SimplePie_File->SimplePie_File()
+#3 /srv/http/iglug/protected/views/blog/conce.php(14): SimplePie->init()
+#4 /srv/http/yii/framework/web/CBaseController.php(119): require()
+#5 /srv/http/yii/framework/web/CBaseController.php(88): BlogController->renderInternal()
+#6 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#7 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#8 /srv/http/iglug/protected/controllers/BlogController.php(37): BlogController->render()
+#9 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#10 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#11 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#12 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#13 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#14 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#15 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#16 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:48:22 [error] [php] file_get_contents(/srv/http/iglug/protected/vendors/npdata.ser): failed to open stream: No such file or directory (/srv/http/iglug/protected/vendors/idna_convert.php:98)
+Stack trace:
+#0 /srv/http/iglug/protected/vendors/simplepie.php(1637): SimplePie_File->SimplePie_File()
+#1 /srv/http/iglug/protected/views/blog/conce.php(14): SimplePie->init()
+#2 /srv/http/yii/framework/web/CBaseController.php(119): require()
+#3 /srv/http/yii/framework/web/CBaseController.php(88): BlogController->renderInternal()
+#4 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#5 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#6 /srv/http/iglug/protected/controllers/BlogController.php(37): BlogController->render()
+#7 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#8 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#9 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#10 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#11 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#12 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#13 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#14 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:48:38 [error] [php] include(idna_convert.php): failed to open stream: No such file or directory (/srv/http/yii/framework/YiiBase.php:338)
+Stack trace:
+#0 unknown(0): spl_autoload_call()
+#1 /srv/http/iglug/protected/vendors/simplepie.php(7587): class_exists()
+#2 /srv/http/iglug/protected/vendors/simplepie.php(1637): SimplePie_File->SimplePie_File()
+#3 /srv/http/iglug/protected/views/blog/conce.php(14): SimplePie->init()
+#4 /srv/http/yii/framework/web/CBaseController.php(119): require()
+#5 /srv/http/yii/framework/web/CBaseController.php(88): BlogController->renderInternal()
+#6 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#7 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#8 /srv/http/iglug/protected/controllers/BlogController.php(37): BlogController->render()
+#9 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#10 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#11 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#12 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#13 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#14 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#15 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#16 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:54:02 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.40cd750bba9870f18aada2478b24840a" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/views/blog/conce.php(16): CComponent->__get('40cd750bba9870f...')
+#1 /srv/http/yii/framework/web/CBaseController.php(119): require('/srv/http/iglug...')
+#2 /srv/http/yii/framework/web/CBaseController.php(88): CBaseController->renderInternal('/srv/http/iglug...', Array, true)
+#3 /srv/http/yii/framework/web/CController.php(732): CBaseController->renderFile('/srv/http/iglug...', Array, true)
+#4 /srv/http/yii/framework/web/CController.php(671): CController->renderPartial('conce', Array, true)
+#5 /srv/http/iglug/protected/controllers/BlogController.php(39): CController->render('conce', Array)
+#6 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#7 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#8 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#9 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#11 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#12 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#13 /srv/http/iglug/index.php(11): CApplication->run()
+#14 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:54:27 [error] [exception.CException] exception 'CException' with message 'BlogController does not have a method named "title".' in /srv/http/yii/framework/base/CComponent.php:237
+Stack trace:
+#0 [internal function]: CComponent->__call('title', Array)
+#1 /srv/http/iglug/protected/views/blog/conce.php(16): BlogController->title()
+#2 /srv/http/yii/framework/web/CBaseController.php(119): require('/srv/http/iglug...')
+#3 /srv/http/yii/framework/web/CBaseController.php(88): CBaseController->renderInternal('/srv/http/iglug...', Array, true)
+#4 /srv/http/yii/framework/web/CController.php(732): CBaseController->renderFile('/srv/http/iglug...', Array, true)
+#5 /srv/http/yii/framework/web/CController.php(671): CController->renderPartial('conce', Array, true)
+#6 /srv/http/iglug/protected/controllers/BlogController.php(39): CController->render('conce', Array)
+#7 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#8 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#9 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#10 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#12 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#13 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#14 /srv/http/iglug/index.php(11): CApplication->run()
+#15 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:54:53 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.Conce" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/views/blog/conce.php(16): CComponent->__get('Conce')
+#1 /srv/http/yii/framework/web/CBaseController.php(119): require('/srv/http/iglug...')
+#2 /srv/http/yii/framework/web/CBaseController.php(88): CBaseController->renderInternal('/srv/http/iglug...', Array, true)
+#3 /srv/http/yii/framework/web/CController.php(732): CBaseController->renderFile('/srv/http/iglug...', Array, true)
+#4 /srv/http/yii/framework/web/CController.php(671): CController->renderPartial('conce', Array, true)
+#5 /srv/http/iglug/protected/controllers/BlogController.php(39): CController->render('conce', Array)
+#6 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#7 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#8 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#9 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#11 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#12 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#13 /srv/http/iglug/index.php(11): CApplication->run()
+#14 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:54:58 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.conce" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/views/blog/conce.php(16): CComponent->__get('conce')
+#1 /srv/http/yii/framework/web/CBaseController.php(119): require('/srv/http/iglug...')
+#2 /srv/http/yii/framework/web/CBaseController.php(88): CBaseController->renderInternal('/srv/http/iglug...', Array, true)
+#3 /srv/http/yii/framework/web/CController.php(732): CBaseController->renderFile('/srv/http/iglug...', Array, true)
+#4 /srv/http/yii/framework/web/CController.php(671): CController->renderPartial('conce', Array, true)
+#5 /srv/http/iglug/protected/controllers/BlogController.php(39): CController->render('conce', Array)
+#6 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#7 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#8 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#9 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#11 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#12 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#13 /srv/http/iglug/index.php(11): CApplication->run()
+#14 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:55:18 [error] [php] Undefined variable: conce (/srv/http/iglug/protected/views/blog/conce.php:16)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(39): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:55:22 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.conce" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/views/blog/conce.php(16): CComponent->__get('conce')
+#1 /srv/http/yii/framework/web/CBaseController.php(119): require('/srv/http/iglug...')
+#2 /srv/http/yii/framework/web/CBaseController.php(88): CBaseController->renderInternal('/srv/http/iglug...', Array, true)
+#3 /srv/http/yii/framework/web/CController.php(732): CBaseController->renderFile('/srv/http/iglug...', Array, true)
+#4 /srv/http/yii/framework/web/CController.php(671): CController->renderPartial('conce', Array, true)
+#5 /srv/http/iglug/protected/controllers/BlogController.php(39): CController->render('conce', Array)
+#6 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#7 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#8 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#9 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#11 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#12 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#13 /srv/http/iglug/index.php(11): CApplication->run()
+#14 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:55:36 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.feed" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/views/blog/conce.php(16): CComponent->__get('feed')
+#1 /srv/http/yii/framework/web/CBaseController.php(119): require('/srv/http/iglug...')
+#2 /srv/http/yii/framework/web/CBaseController.php(88): CBaseController->renderInternal('/srv/http/iglug...', Array, true)
+#3 /srv/http/yii/framework/web/CController.php(732): CBaseController->renderFile('/srv/http/iglug...', Array, true)
+#4 /srv/http/yii/framework/web/CController.php(671): CController->renderPartial('conce', Array, true)
+#5 /srv/http/iglug/protected/controllers/BlogController.php(39): CController->render('conce', Array)
+#6 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#7 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#8 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#9 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#11 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#12 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#13 /srv/http/iglug/index.php(11): CApplication->run()
+#14 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:55:48 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.feed" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/views/blog/conce.php(16): CComponent->__get('feed')
+#1 /srv/http/yii/framework/web/CBaseController.php(119): require('/srv/http/iglug...')
+#2 /srv/http/yii/framework/web/CBaseController.php(88): CBaseController->renderInternal('/srv/http/iglug...', Array, true)
+#3 /srv/http/yii/framework/web/CController.php(732): CBaseController->renderFile('/srv/http/iglug...', Array, true)
+#4 /srv/http/yii/framework/web/CController.php(671): CController->renderPartial('conce', Array, true)
+#5 /srv/http/iglug/protected/controllers/BlogController.php(39): CController->render('conce', Array)
+#6 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#7 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#8 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#9 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#11 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#12 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#13 /srv/http/iglug/index.php(11): CApplication->run()
+#14 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:55:57 [error] [exception.CException] exception 'CException' with message 'Property "BlogController.40cd750bba9870f18aada2478b24840a" is not defined.' in /srv/http/yii/framework/base/CComponent.php:131
+Stack trace:
+#0 /srv/http/iglug/protected/views/blog/conce.php(16): CComponent->__get('40cd750bba9870f...')
+#1 /srv/http/yii/framework/web/CBaseController.php(119): require('/srv/http/iglug...')
+#2 /srv/http/yii/framework/web/CBaseController.php(88): CBaseController->renderInternal('/srv/http/iglug...', Array, true)
+#3 /srv/http/yii/framework/web/CController.php(732): CBaseController->renderFile('/srv/http/iglug...', Array, true)
+#4 /srv/http/yii/framework/web/CController.php(671): CController->renderPartial('conce', Array, true)
+#5 /srv/http/iglug/protected/controllers/BlogController.php(39): CController->render('conce', Array)
+#6 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConce()
+#7 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#8 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#9 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#10 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#11 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#12 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#13 /srv/http/iglug/index.php(11): CApplication->run()
+#14 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/12 06:57:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "concesd".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('concesd')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('concesd')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/concesd')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/concesd
+2010/02/12 11:58:42 [error] [php] Undefined property: SimplePie::$cache_location (/srv/http/iglug/protected/vendors/simplepie.php:1526)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#1 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#2 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#3 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#4 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#5 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#6 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/13 02:10:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "conce".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('conce')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/13 02:10:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "conce".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('conce')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/13 02:10:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "conce".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('conce')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/13 02:13:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "concepcion".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('concepcion')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('concepcion')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/concepcion')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/concepcion
+2010/02/13 02:15:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "conce".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('conce')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/13 02:15:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "conce".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('conce')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/13 02:16:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "conce".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('conce')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/13 02:16:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "conce".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('conce')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/conce
+2010/02/13 14:19:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "conce".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('conce')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/?r=blog/conce
+2010/02/13 16:59:29 [error] [exception.CException] exception 'CException' with message 'CWebApplication does not have a method named "theme".' in /srv/http/yii/framework/base/CComponent.php:237
+Stack trace:
+#0 [internal function]: CComponent->__call('theme', Array)
+#1 /srv/http/iglug/protected/views/blog/puertomontt.php(3): CWebApplication->theme('iglug')
+#2 /srv/http/yii/framework/web/CBaseController.php(119): require('/srv/http/iglug...')
+#3 /srv/http/yii/framework/web/CBaseController.php(88): CBaseController->renderInternal('/srv/http/iglug...', Array, true)
+#4 /srv/http/yii/framework/web/CController.php(732): CBaseController->renderFile('/srv/http/iglug...', Array, true)
+#5 /srv/http/yii/framework/web/CController.php(671): CController->renderPartial('puertomontt', Array, true)
+#6 /srv/http/iglug/protected/controllers/BlogController.php(64): CController->render('puertomontt', Array)
+#7 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionPuertomontt()
+#8 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#9 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#10 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('puertomontt')
+#12 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/puertomont...')
+#13 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#14 /srv/http/iglug/index.php(11): CApplication->run()
+#15 {main} REQUEST_URI=/iglug/index.php?r=blog/puertomontt
+2010/02/13 17:10:29 [error] [php] require(php/globales.php): failed to open stream: No such file or directory (/srv/http/iglug/themes/iglug/views/layouts/main.php:27)
+Stack trace:
+#0 /srv/http/yii/framework/web/CBaseController.php(88): BlogController->renderInternal()
+#1 /srv/http/yii/framework/web/CController.php(673): BlogController->renderFile()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(64): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionPuertomontt()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/puertomontt
+2010/02/13 17:10:31 [error] [php] require(php/globales.php): failed to open stream: No such file or directory (/srv/http/iglug/themes/iglug/views/layouts/main.php:27)
+Stack trace:
+#0 /srv/http/yii/framework/web/CBaseController.php(88): BlogController->renderInternal()
+#1 /srv/http/yii/framework/web/CController.php(673): BlogController->renderFile()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(64): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionPuertomontt()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/puertomontt
+2010/02/13 17:45:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "conce".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('conce')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('conce')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/conce')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/?r=blog/conce
+2010/02/13 17:53:24 [error] [php] require(php/globales.php): failed to open stream: No such file or directory (/srv/http/iglug/themes/iglug/views/layouts/main.php:27)
+Stack trace:
+#0 /srv/http/yii/framework/web/CBaseController.php(88): BlogController->renderInternal()
+#1 /srv/http/yii/framework/web/CController.php(673): BlogController->renderFile()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(43): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionConcepcion()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/?r=blog/concepcion
+2010/02/13 18:04:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "about".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('about')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('about')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('site/about')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/?r=site/about
+2010/02/13 18:04:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "acerca-de".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('acerca-de')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('acerca-de')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('site/acerca-de')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/?r=site/acerca-de
+2010/02/13 18:04:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "acerca".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('acerca')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('acerca')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('site/acerca')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/?r=site/acerca
+2010/02/13 18:04:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "acerca".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('acerca')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('acerca')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('site/acerca')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/?r=site/acerca
+2010/02/13 19:42:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "acerca".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('acerca')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('acerca')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('site/acerca')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/?r=site/acerca
+2010/02/13 20:00:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "acerca".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('acerca')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('acerca')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('site/acerca')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/?r=site/acerca
+2010/02/13 20:11:13 [error] [php] Object of class CBreadcrumbs could not be converted to string (/srv/http/iglug/themes/iglug/views/layouts/main.php:104)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(673): BlogController->renderFile()
+#1 /srv/http/iglug/protected/controllers/BlogController.php(70): BlogController->render()
+#2 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionIndex()
+#3 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#4 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#5 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#6 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#7 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#8 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#9 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/index
+2010/02/13 23:14:16 [error] [php] Undefined variable: grupo_nombre (/srv/http/iglug/protected/views/blog/index.php:11)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(79): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionIndex()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/index
+2010/02/13 23:15:26 [error] [php] Undefined variable: grupo_nombre (/srv/http/iglug/protected/views/blog/index.php:11)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(82): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionIndex()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/index
+2010/02/13 23:15:27 [error] [php] Undefined variable: grupo_nombre (/srv/http/iglug/protected/views/blog/index.php:11)
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /srv/http/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /srv/http/iglug/protected/controllers/BlogController.php(82): BlogController->render()
+#3 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionIndex()
+#4 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/index
+2010/02/14 01:04:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "home".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('home')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('home')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('site/home')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=site/home
+2010/02/14 01:04:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "home".' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('home')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('home')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('site/home')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=site/home
+2010/02/14 01:21:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'La vista "abd" solicitad no se ha encontrado.' in /srv/http/yii/framework/web/actions/CViewAction.php:110
+Stack trace:
+#0 /srv/http/yii/framework/web/actions/CViewAction.php(121): CViewAction->resolveView('abd')
+#1 /srv/http/yii/framework/web/CController.php(300): CViewAction->run()
+#2 /srv/http/yii/framework/web/CController.php(278): CController->runAction(Object(CViewAction))
+#3 /srv/http/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CViewAction), Array)
+#4 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('page')
+#5 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('site/page')
+#6 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#7 /srv/http/iglug/index.php(11): CApplication->run()
+#8 {main} REQUEST_URI=/iglug/index.php?r=site/page&view=abd
+2010/02/14 12:59:08 [error] [php] include(simplepie.php): failed to open stream: No such file or directory (/srv/http/yii/framework/YiiBase.php:338)
+Stack trace:
+#0 /srv/http/iglug/protected/controllers/BlogController.php(70): spl_autoload_call()
+#1 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionIndex()
+#2 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#3 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#4 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#5 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#6 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#7 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#8 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/index
+2010/02/14 12:59:24 [error] [php] include(simplepie.php): failed to open stream: No such file or directory (/srv/http/yii/framework/YiiBase.php:338)
+Stack trace:
+#0 /srv/http/iglug/protected/controllers/BlogController.php(70): spl_autoload_call()
+#1 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionIndex()
+#2 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#3 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#4 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#5 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#6 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#7 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#8 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/index
+2010/02/14 13:00:40 [error] [php] include(idna_convert.php): failed to open stream: No such file or directory (/srv/http/yii/framework/YiiBase.php:338)
+Stack trace:
+#0 unknown(0): spl_autoload_call()
+#1 /srv/http/iglug/protected/vendors/simplepie/simplepie.php(7587): class_exists()
+#2 /srv/http/iglug/protected/vendors/simplepie/simplepie.php(1637): SimplePie_File->SimplePie_File()
+#3 /srv/http/iglug/protected/controllers/BlogController.php(56): SimplePie->init()
+#4 /srv/http/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionPuertomontt()
+#5 /srv/http/yii/framework/web/CController.php(300): CInlineAction->run()
+#6 /srv/http/yii/framework/web/CController.php(278): BlogController->runAction()
+#7 /srv/http/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#8 /srv/http/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#9 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#10 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#11 /srv/http/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/puertomontt
+2010/02/14 13:04:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "puertomontt" solicitada.' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('puertomontt')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('puertomontt')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/puertomont...')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/puertomontt
+2010/02/14 13:04:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "index" solicitada.' in /srv/http/yii/framework/web/CController.php:439
+Stack trace:
+#0 /srv/http/yii/framework/web/CController.php(262): CController->missingAction('index')
+#1 /srv/http/yii/framework/web/CWebApplication.php(320): CController->run('index')
+#2 /srv/http/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/index')
+#3 /srv/http/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /srv/http/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/index
+2010/02/14 13:39:28 [error] [php] Undefined variable: item (/home/iglug/public_html/iglug/protected/views/site/pages/about.php:25)
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(732): SiteController->renderFile()
+#1 /home/iglug/yii/framework/web/CController.php(671): SiteController->renderPartial()
+#2 /home/iglug/yii/framework/web/actions/CViewAction.php(138): SiteController->render()
+#3 /home/iglug/yii/framework/web/CController.php(300): CViewAction->run()
+#4 /home/iglug/yii/framework/web/CController.php(278): SiteController->runAction()
+#5 /home/iglug/yii/framework/web/CController.php(257): SiteController->runActionWithFilters()
+#6 /home/iglug/yii/framework/web/CWebApplication.php(320): SiteController->run()
+#7 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#8 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#9 /home/iglug/public_html/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=site/page&view=about
+2010/02/14 13:53:41 [error] [php] ./cache/8c1d9a97ced1ab820dcb78738e1784d9.spc is not writeable (/home/iglug/public_html/iglug/protected/vendors/simplepie/simplepie.php:1774)
+Stack trace:
+#0 /home/iglug/yii/framework/web/CBaseController.php(119): require()
+#1 /home/iglug/yii/framework/web/CBaseController.php(88): SiteController->renderInternal()
+#2 /home/iglug/yii/framework/web/CController.php(732): SiteController->renderFile()
+#3 /home/iglug/yii/framework/web/CController.php(671): SiteController->renderPartial()
+#4 /home/iglug/yii/framework/web/actions/CViewAction.php(138): SiteController->render()
+#5 /home/iglug/yii/framework/web/CController.php(300): CViewAction->run()
+#6 /home/iglug/yii/framework/web/CController.php(278): SiteController->runAction()
+#7 /home/iglug/yii/framework/web/CController.php(257): SiteController->runActionWithFilters()
+#8 /home/iglug/yii/framework/web/CWebApplication.php(320): SiteController->run()
+#9 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#10 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#11 /home/iglug/public_html/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=site/page&view=about
+2010/02/14 17:15:50 [error] [php] YiiBase::include(CHhtml.php) [<a href='function.YiiBase-include'>function.YiiBase-include</a>]: failed to open stream: No such file or directory (/home/iglug/yii/framework/YiiBase.php:338)
+Stack trace:
+#0 /home/iglug/public_html/iglug/themes/iglug/views/layouts/main.php(60): spl_autoload_call()
+#1 /home/iglug/yii/framework/web/CBaseController.php(119): require()
+#2 /home/iglug/yii/framework/web/CBaseController.php(88): SiteController->renderInternal()
+#3 /home/iglug/yii/framework/web/CController.php(673): SiteController->renderFile()
+#4 /home/iglug/public_html/iglug/protected/controllers/SiteController.php(32): SiteController->render()
+#5 /home/iglug/yii/framework/web/actions/CInlineAction.php(32): SiteController->actionIndex()
+#6 /home/iglug/yii/framework/web/CController.php(300): CInlineAction->run()
+#7 /home/iglug/yii/framework/web/CController.php(278): SiteController->runAction()
+#8 /home/iglug/yii/framework/web/CController.php(257): SiteController->runActionWithFilters()
+#9 /home/iglug/yii/framework/web/CWebApplication.php(320): SiteController->run()
+#10 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#11 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#12 /home/iglug/public_html/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=site/index
+2010/02/14 17:19:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "osorno" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('osorno')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('osorno')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/osorno')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/osorno
+2010/02/14 17:19:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "osorno" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('osorno')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('osorno')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/osorno')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/osorno
+2010/02/14 17:21:47 [error] [php] Undefined variable: grupo_info (/home/iglug/public_html/iglug/protected/views/blog/iglug.php:9)
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /home/iglug/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /home/iglug/public_html/iglug/protected/controllers/BlogController.php(91): BlogController->render()
+#3 /home/iglug/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionIglug()
+#4 /home/iglug/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /home/iglug/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /home/iglug/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /home/iglug/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /home/iglug/public_html/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/iglug
+2010/02/14 17:25:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "osorno" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('osorno')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('osorno')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/osorno')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/osorno
+2010/02/14 17:26:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "osorno" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('osorno')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('osorno')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/osorno')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/osorno
+2010/02/14 17:31:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "osorno" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('osorno')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('osorno')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/osorno')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/osorno
+2010/02/14 17:36:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "osorno" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('osorno')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('osorno')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/osorno')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/osorno
+2010/02/14 17:38:21 [error] [php] Undefined variable: grupo_info (/home/iglug/public_html/iglug/protected/views/blog/index.php:6)
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /home/iglug/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /home/iglug/public_html/iglug/protected/controllers/BlogController.php(54): BlogController->render()
+#3 /home/iglug/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionPuertomontt()
+#4 /home/iglug/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /home/iglug/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /home/iglug/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /home/iglug/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /home/iglug/public_html/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/puertomontt
+2010/02/14 17:39:08 [error] [php] Undefined variable: grupo_info (/home/iglug/public_html/iglug/protected/views/blog/index.php:6)
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /home/iglug/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /home/iglug/public_html/iglug/protected/controllers/BlogController.php(54): BlogController->render()
+#3 /home/iglug/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionPuertomontt()
+#4 /home/iglug/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /home/iglug/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /home/iglug/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /home/iglug/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /home/iglug/public_html/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/puertomontt
+2010/02/14 17:39:29 [error] [php] Undefined variable: grupo_info (/home/iglug/public_html/iglug/protected/views/blog/index.php:6)
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /home/iglug/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /home/iglug/public_html/iglug/protected/controllers/BlogController.php(54): BlogController->render()
+#3 /home/iglug/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionPuertomontt()
+#4 /home/iglug/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /home/iglug/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /home/iglug/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /home/iglug/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /home/iglug/public_html/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/puertomontt
+2010/02/14 17:39:30 [error] [php] Undefined variable: grupo_info (/home/iglug/public_html/iglug/protected/views/blog/index.php:6)
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /home/iglug/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /home/iglug/public_html/iglug/protected/controllers/BlogController.php(54): BlogController->render()
+#3 /home/iglug/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionPuertomontt()
+#4 /home/iglug/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /home/iglug/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /home/iglug/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /home/iglug/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /home/iglug/public_html/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/puertomontt
+2010/02/14 17:39:33 [error] [php] Undefined variable: grupo_info (/home/iglug/public_html/iglug/protected/views/blog/index.php:6)
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /home/iglug/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /home/iglug/public_html/iglug/protected/controllers/BlogController.php(54): BlogController->render()
+#3 /home/iglug/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionPuertomontt()
+#4 /home/iglug/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /home/iglug/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /home/iglug/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /home/iglug/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /home/iglug/public_html/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/puertomontt
+2010/02/14 17:40:46 [error] [php] Undefined variable: grupo_info (/home/iglug/public_html/iglug/protected/views/blog/index.php:6)
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /home/iglug/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /home/iglug/public_html/iglug/protected/controllers/BlogController.php(54): BlogController->render()
+#3 /home/iglug/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionPuertomontt()
+#4 /home/iglug/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /home/iglug/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /home/iglug/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /home/iglug/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /home/iglug/public_html/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/puertomontt
+2010/02/14 17:40:48 [error] [php] Undefined variable: grupo_info (/home/iglug/public_html/iglug/protected/views/blog/index.php:6)
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /home/iglug/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /home/iglug/public_html/iglug/protected/controllers/BlogController.php(54): BlogController->render()
+#3 /home/iglug/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionPuertomontt()
+#4 /home/iglug/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /home/iglug/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /home/iglug/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /home/iglug/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /home/iglug/public_html/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/puertomontt
+2010/02/14 17:41:26 [error] [php] Undefined variable: grupo_info (/home/iglug/public_html/iglug/protected/views/blog/index.php:6)
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /home/iglug/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /home/iglug/public_html/iglug/protected/controllers/BlogController.php(54): BlogController->render()
+#3 /home/iglug/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionPuertomontt()
+#4 /home/iglug/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /home/iglug/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /home/iglug/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /home/iglug/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /home/iglug/public_html/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/puertomontt
+2010/02/14 17:41:27 [error] [php] Undefined variable: grupo_info (/home/iglug/public_html/iglug/protected/views/blog/index.php:6)
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /home/iglug/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /home/iglug/public_html/iglug/protected/controllers/BlogController.php(54): BlogController->render()
+#3 /home/iglug/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionPuertomontt()
+#4 /home/iglug/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /home/iglug/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /home/iglug/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /home/iglug/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /home/iglug/public_html/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/puertomontt
+2010/02/14 17:41:46 [error] [php] Undefined variable: grupo_info (/home/iglug/public_html/iglug/protected/views/blog/index.php:6)
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /home/iglug/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /home/iglug/public_html/iglug/protected/controllers/BlogController.php(54): BlogController->render()
+#3 /home/iglug/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionPuertomontt()
+#4 /home/iglug/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /home/iglug/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /home/iglug/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /home/iglug/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /home/iglug/public_html/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/puertomontt
+2010/02/14 17:41:48 [error] [php] Undefined variable: grupo_info (/home/iglug/public_html/iglug/protected/views/blog/index.php:6)
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /home/iglug/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /home/iglug/public_html/iglug/protected/controllers/BlogController.php(54): BlogController->render()
+#3 /home/iglug/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionPuertomontt()
+#4 /home/iglug/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /home/iglug/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /home/iglug/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /home/iglug/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /home/iglug/public_html/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/puertomontt
+2010/02/14 17:43:08 [error] [php] Undefined variable: grupo_info (/home/iglug/public_html/iglug/protected/views/blog/index.php:6)
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(732): BlogController->renderFile()
+#1 /home/iglug/yii/framework/web/CController.php(671): BlogController->renderPartial()
+#2 /home/iglug/public_html/iglug/protected/controllers/BlogController.php(54): BlogController->render()
+#3 /home/iglug/yii/framework/web/actions/CInlineAction.php(32): BlogController->actionPuertomontt()
+#4 /home/iglug/yii/framework/web/CController.php(300): CInlineAction->run()
+#5 /home/iglug/yii/framework/web/CController.php(278): BlogController->runAction()
+#6 /home/iglug/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#7 /home/iglug/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#8 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#9 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#10 /home/iglug/public_html/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/puertomontt
+2010/02/14 17:43:53 [error] [php] Undefined variable: breadcrumbs (/home/iglug/public_html/iglug/protected/controllers/BlogController.php:53)
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /home/iglug/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /home/iglug/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /home/iglug/public_html/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/puertomontt
+2010/02/14 17:44:55 [error] [php] Undefined variable: info (/home/iglug/public_html/iglug/protected/controllers/BlogController.php:39)
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(278): BlogController->runAction()
+#1 /home/iglug/yii/framework/web/CController.php(257): BlogController->runActionWithFilters()
+#2 /home/iglug/yii/framework/web/CWebApplication.php(320): BlogController->run()
+#3 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController()
+#4 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#5 /home/iglug/public_html/iglug/index.php(11): CWebApplication->run()
+REQUEST_URI=/iglug/index.php?r=blog/concepcion
+2010/02/14 17:45:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "osorno" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('osorno')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('osorno')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/osorno')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/osorno
+2010/02/14 17:47:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "osorno" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('osorno')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('osorno')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/osorno')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/osorno
+2010/02/14 17:52:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "osorno" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('osorno')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('osorno')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/osorno')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/osorno
+2010/02/14 18:03:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "osorno" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('osorno')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('osorno')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/osorno')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/osorno
+2010/02/14 18:04:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "osorno" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('osorno')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('osorno')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/osorno')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/osorno
+2010/02/14 21:39:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'El sistema no ha podido encontrar la acción "osorno" solicitada.' in /home/iglug/yii/framework/web/CController.php:439
+Stack trace:
+#0 /home/iglug/yii/framework/web/CController.php(262): CController->missingAction('osorno')
+#1 /home/iglug/yii/framework/web/CWebApplication.php(320): CController->run('osorno')
+#2 /home/iglug/yii/framework/web/CWebApplication.php(120): CWebApplication->runController('blog/osorno')
+#3 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#4 /home/iglug/public_html/iglug/index.php(11): CApplication->run()
+#5 {main} REQUEST_URI=/iglug/index.php?r=blog/osorno

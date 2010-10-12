@@ -1,0 +1,7 @@
+AuthName "iglug.gnewbook.org statistics"
+AuthType Basic
+AuthUserFile /home/iglug/.stats-htpasswd
+require valid-user
+<Files .htpasswd>
+deny from all
+</Files>

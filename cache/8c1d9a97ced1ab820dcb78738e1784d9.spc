@@ -1,0 +1,30 @@
+a:4:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:7:"version";s:3:"2.0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:1:{s:7:"channel";a:1:{i:0;a:6:{s:4:"data";s:13:"
+		
+		
+		
+	
+	";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"base";s:0:"";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:3:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:15:"gNewBook (Beta)";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:53:"http://www.gnewbook.org/pg/pages/view/16295/?view=rss";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"item";a:1:{i:0;a:6:{s:4:"data";s:22:"
+	  
+	  
+	  
+	  
+	  
+	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:0:"";a:5:{s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:44:"http://www.gnewbook.org/pg/pages/view/16295/";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:4:"true";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 19 Jan 2010 19:16:38 -0300";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:44:"http://www.gnewbook.org/pg/pages/view/16295/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:9:"Acerca de";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3389:"<p><strong>IGLUG</strong> es un proyecto que busca formar una <strong>Red Nacional Inter-sede de Grupos de Usuarios GNU Linux</strong> y&nbsp; Tecnolog&iacute;as Libres en general en la Universidad Tecnol&oacute;gica de Chile Inacap a fin de unir esfuerzos en la coordinaci&oacute;n y difusi&oacute;n de actividades, eventos e informaci&oacute;n del t&oacute;pico.</p>
+<p>IGLUG no es parte de ning&uacute;n proyecto oficial de la misma Universidad ni posee jerarqu&iacute;a entre sus miembros (ni aun los fundadores).</p>
+<div class="post-body">
+<p>Si eres representante<sup><a name="fnr.1" href="http://iglug.gnewbook.org/?nodo=acerca#fn.1">1</a></sup> o parte de alg&uacute;n grupo de usuarios GNU y Linux en alguna sede de la Universidad Tecnol&oacute;gica de Chile INACAP, est&aacute;s cordialmente invitado a participar del grupo en <strong>Gnewbook</strong><sup><a name="fnr.2" href="http://iglug.gnewbook.org/?nodo=acerca#fn.2">2</a></sup> que hemos dedicado para coordinar esfuerzos de difusi&oacute;n y organizaci&oacute;n. Estando suscrito al grupo, podr&aacute;s publicar art&iacute;culos en el blog del mismo, cuyos &uacute;ltimos art&iacute;culos ser&aacute;n sindicados a esta direcci&oacute;n.</p>
+<p>Si eres <strong>alumno, ex-alumno o docente</strong> en la Universidad Tecnol&oacute;gica  de Chile INACAP, est&aacute;s especialmente invitado/a a participar. Dirige  tus dudas y sugerencias al<a href="http://iglug.gnewbook.org/site/contact?view=contact"> formulario de contacto</a> o cont&aacute;ctanos en el <a href="http://iglug.gnewbook.org/index.php?r=site/page&#38;view=webchat">webchat</a>.</p>
+<p>Asimismo, est&aacute;s invitado a usar Gnewbook para crear una red social libre y independiente para tu grupo de usuarios local e integrar una plataforma basada y mantenida con tecnolog&iacute;as libres por la Fundaci&oacute;n GNUCHILE.&nbsp;</p>
+<p>Agregarse al IGLUG</p>
+<ol>
+<li>Suscribirte a la Lista de Correo (basta enviando un email en blanco a iglug-susbscribe@gnewbook.org)</li>
+<li>Crear un grupo en Gnewbook, incluso si no lo usas esto al menos posibilitar&aacute; el desarrollo de una red social y espacio de opini&oacute;n a todos los miembros.</li>
+<li>Anunciar el grupo de gnewbook a los dem&aacute;s miembros del IGLUG y proporcionar el/los feed(s) de tu grupo (coherentes con el Software Libre) a incluir en la p&aacute;gina de iglug.gnewbook.org/blog/<strong>tu_sede</strong></li>
+</ol>
+<p>&nbsp;</p>
+<p><img src="http://iglug.gnewbook.org/themes/iglug/img/we-run-gnu.png" border="0" width="300" height="137" /></p>
+<p><fieldset><legend>Notas</legend></p>
+<p class="footnote"><a name="fn.1" href="http://iglug.gnewbook.org/?nodo=acerca#fnr.1">1.</a> Se considera de que puede existir uno o m&aacute;s representantes por grupo y/o por Sede. Esto no tiene por qu&eacute; ser un cargo formal o jer&aacute;rquico, sino de al menos tener el inter&eacute;s y la disposici&oacute;n de discutir y coordinar ideas referente a su sede con las dem&aacute;s, en pro del software libre y las tecnolog&iacute;as libres.</p>
+<p class="footnote"><a name="fn.2" href="http://iglug.gnewbook.org/?nodo=acerca#fnr.2">2.</a> Gnewbook es una Red Social creada soportada por la Fundaci&oacute;n GNUCHILE y basada en el software Libre Elgg. El c&oacute;digo fuente de Gnewbook est&aacute; disponible en http://savannah.nongnu.org/projects/gnewbook</p>
+<p></fieldset></div>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:1;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:12:{s:4:"date";s:29:"Tue, 10 Aug 2010 16:43:43 GMT";s:6:"server";s:21:"Apache/2.2.3 (CentOS)";s:12:"x-powered-by";s:9:"PHP/5.1.6";s:10:"set-cookie";s:45:"Elgg=96ee7c27e8d8f3f9b04a076fd3f35f32; path=/";s:7:"expires";s:29:"Thu, 19 Nov 1981 08:52:00 GMT";s:13:"cache-control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"pragma";s:8:"no-cache";s:4:"vary";s:15:"Accept-Encoding";s:16:"content-encoding";s:4:"gzip";s:14:"content-length";s:4:"1729";s:10:"connection";s:5:"close";s:12:"content-type";s:8:"text/xml";}s:5:"build";i:20081219;}
