@@ -19,28 +19,23 @@ Layout main.php (/theme/iglug/views/layouts/main.php)
     MA 02110-1301, USA.
 -->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-
     <head>
         <title><?php echo CHtml::encode($this->pageTitle); ?></title>
         <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->theme->baseUrl; ?>/css/main.css" />
         <!-- [if IE] >
-	<link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->theme->baseUrl; ?>/css/ie.css" />
+            <link rel="stylesheet" type="text/css" href="<?php echo Yii::app()->theme->baseUrl; ?>/css/ie.css" />
         <![endif] -->
         <meta http-equiv="content-type" content="text/html;charset=utf-8" />
         <meta name="keywords" lang="es" content="linux inacap,empresa,emprendimiento,emprender,libertad,mejor,Inacap,GNU/Linux,Comunidad,Universidad Tecnológica de Chile,negocios, software libre,open source,grupo de usuarios,usuarios software libre inacap,usuarios gnu inacap,usuarios linux inacap" />
         <meta name="description" content="Red Nacional Inter Sede de Grupos de Usuarios GNU y Linux en la Universidad Tecnológica de Chile INACAP" />
-
     </head>
     <body style="direction: ltr;">
         <div id="ie" style="display:none">D:</div>
         <div class="container">
-
             <div id="header">
                 <div id="logo"><?php echo CHtml::link('<img alt="Logo IGLUG" title="INACAP GNU &amp; Linux Users Group" src="http://www.gnewbook.org/mod/tidypics/thumbnail.php?file_guid=12981&amp;size=large" />', '/') ?>
-
                     <div class="bloque" id="mailist-subscribe">
                         <form action="http://www.gnewbook.org/mail_lists/list.php" method="post">
                             <fieldset><legend>Lista de Correo IGLUG</legend>
@@ -51,7 +46,6 @@ Layout main.php (/theme/iglug/views/layouts/main.php)
                             </fieldset>
                         </form>
                     </div><!-- bloque -->
-
                 </div><!-- logo -->
                 <div id="menu">
                     <?php
@@ -65,16 +59,12 @@ Layout main.php (/theme/iglug/views/layouts/main.php)
                             array('label' => 'Wiki', 'url' => array('/site/page', 'view' => 'wiki')),
                         ),
                     )); ?>
-
                 </div>
             </div><!-- header -->
-
             <?php echo $content; ?>
-
-                    <div id="footer">
+            <div id="footer">
                 <?php echo CHtml::encode(Yii::app()->name); ?> is <?php echo Yii::powered(); ?>
             </div><!-- footer -->
-
             <!-- </div>page -->
         </div>
     </body>

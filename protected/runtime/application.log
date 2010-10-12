@@ -2294,3 +2294,41 @@ Stack trace:
 #1 /home/iglug/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
 #2 /home/iglug/public_html/index.php(11): CApplication->run()
 #3 {main} REQUEST_URI=/favicon.ico
+2010/10/12 00:07:51 [error] [exception.CException] exception 'CException' with message 'CAssetManager.basePath "/home/rivoot/public_html/iglug/assets" es inválido. Verifique que el directorio exista y tenga permisos de escritura por el proceso que corre el servidor Web.' in /home/rivoot/public_html/yii/framework/web/CAssetManager.php:73
+Stack trace:
+#0 /home/rivoot/public_html/yii/framework/web/CAssetManager.php(58): CAssetManager->setBasePath('/home/rivoot/pu...')
+#1 /home/rivoot/public_html/yii/framework/web/CAssetManager.php(155): CAssetManager->getBasePath()
+#2 /home/rivoot/public_html/yii/framework/web/CClientScript.php(352): CAssetManager->publish('/home/rivoot/pu...')
+#3 /home/rivoot/public_html/yii/framework/web/CClientScript.php(203): CClientScript->getCoreScriptUrl()
+#4 /home/rivoot/public_html/yii/framework/web/CClientScript.php(133): CClientScript->renderCoreScripts()
+#5 /home/rivoot/public_html/yii/framework/web/CController.php(318): CClientScript->render('??<p>?Si tienes...')
+#6 /home/rivoot/public_html/yii/framework/web/CController.php(743): CController->processOutput('??<p>?Si tienes...')
+#7 /home/rivoot/public_html/iglug/protected/controllers/SiteController.php(69): CController->render('contact', Array)
+#8 /home/rivoot/public_html/yii/framework/web/actions/CInlineAction.php(50): SiteController->actionContact()
+#9 /home/rivoot/public_html/yii/framework/web/CController.php(300): CInlineAction->run()
+#10 /home/rivoot/public_html/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#11 /home/rivoot/public_html/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /home/rivoot/public_html/yii/framework/web/CWebApplication.php(324): CController->run('contact')
+#13 /home/rivoot/public_html/yii/framework/web/CWebApplication.php(121): CWebApplication->runController('site/contact')
+#14 /home/rivoot/public_html/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#15 /home/rivoot/public_html/iglug/index.php(11): CApplication->run()
+#16 {main} REQUEST_URI=/~rivoot/iglug/index.php?r=site/contact&view=contact
+2010/10/12 00:07:56 [error] [exception.CException] exception 'CException' with message 'CAssetManager.basePath "/home/rivoot/public_html/iglug/assets" es inválido. Verifique que el directorio exista y tenga permisos de escritura por el proceso que corre el servidor Web.' in /home/rivoot/public_html/yii/framework/web/CAssetManager.php:73
+Stack trace:
+#0 /home/rivoot/public_html/yii/framework/web/CAssetManager.php(58): CAssetManager->setBasePath('/home/rivoot/pu...')
+#1 /home/rivoot/public_html/yii/framework/web/CAssetManager.php(155): CAssetManager->getBasePath()
+#2 /home/rivoot/public_html/yii/framework/web/CClientScript.php(352): CAssetManager->publish('/home/rivoot/pu...')
+#3 /home/rivoot/public_html/yii/framework/web/CClientScript.php(203): CClientScript->getCoreScriptUrl()
+#4 /home/rivoot/public_html/yii/framework/web/CClientScript.php(133): CClientScript->renderCoreScripts()
+#5 /home/rivoot/public_html/yii/framework/web/CController.php(318): CClientScript->render('??<p>?Si tienes...')
+#6 /home/rivoot/public_html/yii/framework/web/CController.php(743): CController->processOutput('??<p>?Si tienes...')
+#7 /home/rivoot/public_html/iglug/protected/controllers/SiteController.php(69): CController->render('contact', Array)
+#8 /home/rivoot/public_html/yii/framework/web/actions/CInlineAction.php(50): SiteController->actionContact()
+#9 /home/rivoot/public_html/yii/framework/web/CController.php(300): CInlineAction->run()
+#10 /home/rivoot/public_html/yii/framework/web/CController.php(278): CController->runAction(Object(CInlineAction))
+#11 /home/rivoot/public_html/yii/framework/web/CController.php(257): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /home/rivoot/public_html/yii/framework/web/CWebApplication.php(324): CController->run('contact')
+#13 /home/rivoot/public_html/yii/framework/web/CWebApplication.php(121): CWebApplication->runController('site/contact')
+#14 /home/rivoot/public_html/yii/framework/base/CApplication.php(135): CWebApplication->processRequest()
+#15 /home/rivoot/public_html/iglug/index.php(11): CApplication->run()
+#16 {main} REQUEST_URI=/~rivoot/iglug/index.php?r=site/contact&view=contact

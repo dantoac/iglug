@@ -8,7 +8,7 @@
 return array(
 	'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
 	'name'=>'Inacap GNU/Linux User Groups',
-	'theme' => 'iglug',
+	'theme' => 'new-iglug',
 	'defaultController' => 'blog',
 
 	// preloading 'log' component
